@@ -6,7 +6,7 @@ import 'mapbox-gl/dist/mapbox-gl.css'  // Adds popup css
 import './Map.css'
 
 import countyGeoJson from './data/us_counties.json'
-import {mapOptions, mortalityRate, opioidDepRate} from './MapOptions'
+import {mapOptions, mortalityRate, opioidDepRate, opioidSpike} from './MapOptions'
 import {MapLegend} from './MapLegend'
 import {Sidebar} from './Sidebar'
 
@@ -107,9 +107,6 @@ class Map extends React.Component {
         if (countiesQueried.length > 0) {
           const county = countiesQueried[0].properties;
 
-          // TODO: Get county data uid FIPS to display in sidebar
-          this.setState({county});
-
           // Display a popup with the name of the county and data
           const fips = feature.properties.FIPS.toString();
           const countyData = this.data.features.filter((feat) => {
@@ -120,9 +117,16 @@ class Map extends React.Component {
             const data = countyData.properties[this.state.active.property];
             const isMortalityRate = this.state.active.property === mortalityRate;
             const dataRounded = isMortalityRate ? data.toFixed(5) : data.toFixed(2);
-            const dataText = `${dataRounded}. Acc: ${(Math.random()*100).toFixed(2)}%`;
+
+            // TODO: Get county data uid FIPS to display in sidebar
+            if (data && data === 0) {
+              this.setState({county: {name: 'dummy'}});
+            } else {
+              this.setState({county});
+            }
+
             popup.setLngLat(e.lngLat)
-              .setText(`${feature.properties.COUNTY}: ${data ? dataText : 'No Data'}`)
+              .setText(`${feature.properties.COUNTY}: ${data ? dataRounded : 'No Data'}`)
               .addTo(this.map);
           }
         }
@@ -156,11 +160,14 @@ class Map extends React.Component {
     // Get mortality rate and dependency for the given year
     const copyCountyGeoJson = Object.assign({}, countyGeoJson);
     copyCountyGeoJson['features'].forEach((feature, idx, featuresArr) => {
-      const countyCode = feature.properties['STATE'] + feature.properties['COUNTY'];
+      const countyCode = parseInt(feature.properties['STATE'] + feature.properties['COUNTY'], 10);
       // TODO: Replace random with data[this.state.year].mortality[countyCode]
       const random = Math.random();
+      // TODO: Replace with spiked prediction
+      const predictedSpikes = [24005,24005,48085,48121,13135,48215,36047,15003,12011,36081,41067,27123];
       featuresArr[idx]['properties'][mortalityRate] = random / 100 < 0.001 ? 0 : random / 100;
-      featuresArr[idx]['properties'][opioidDepRate] = parseInt(countyCode, 10) / 10000;
+      featuresArr[idx]['properties'][opioidDepRate] = countyCode / 10000;
+      featuresArr[idx]['properties'][opioidSpike] = predictedSpikes.indexOf(countyCode) > -1 ? 1 : 0
     });
     return copyCountyGeoJson
   }
@@ -208,7 +215,7 @@ class Map extends React.Component {
       );
     };
 
-    const yearLabels = (min=2011, max=2016) => {
+    const yearLabels = (min=2011, max=2019) => {
       const labels = {};
       for (let i = 2011; i <= max; i++) {
         labels[i] = i
@@ -221,8 +228,8 @@ class Map extends React.Component {
         <div style={style} ref={el => this.mapContainer = el} />
 
         <div className="map-title align-center">
-          <h1 className="bg-white absolute top txt-m txt-bold mr12 mb24 py12 px12 shadow-darken10 round z1 wmax240">
-            Opioid Crisis Predictor
+          <h1 className="bg-white absolute top txt-m txt-bold mr12 mt12 py12 px12 shadow-darken10 round z1 wmax240">
+            Opioid Crisis Visualizer
           </h1>
         </div>
 
@@ -230,16 +237,18 @@ class Map extends React.Component {
           {mapOptions.map(renderOptions)}
         </div>
 
-        <div className="slider-container shadow-darken10 round z1">
-          <Slider min={2011} max={2016}
-                  labels={yearLabels()}
-                  value={this.state.year}
-                  onChange={this.handleChangeYear}
-          />
-        </div>
+        {this.state.active.property !== opioidSpike &&
+          <div className="slider-container shadow-darken10 round z1">
+            <Slider min={2011} max={2019}
+                    labels={yearLabels()}
+                    value={this.state.year}
+                    onChange={this.handleChangeYear}
+            />
+          </div>
+        }
 
         <MapLegend active={this.state.active} />
-        {!!this.state.county &&
+        {!!this.state.county && this.state.county.name !== 'dummy' &&
           <Sidebar county={this.state.county}
                    active={this.state.active} />
         }

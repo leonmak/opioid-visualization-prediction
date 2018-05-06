@@ -3,6 +3,7 @@
  */
 export const mortalityRate = 'death_perpop';
 export const opioidDepRate = 'opioid_prescribe_perc';
+export const opioidSpike = 'opioid_spike';
 
 export const mapOptions = [{
   name: 'Overdose Death Rate',
@@ -32,5 +33,12 @@ export const mapOptions = [{
     [10, '#A25626'],
     [50, '#8B4225'],
     [100, '#723122']
-  ]
-}];
+  ]}, {
+  name: 'Predicted Overdose Spikes (2019)',
+  description: 'Predicted statistically significant increase in overdose death rate',
+  property: opioidSpike,
+  stops: [
+    [0.02, '#6e5656'],
+    [0.98, '#8b0104']
+  ]}
+];
