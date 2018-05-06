@@ -7,14 +7,16 @@ import './Map.css'
 import countyGeoJson from './data/us_counties.json'
 import {mapOptions, mortalityRate, opioidDepRate} from './MapOptions'
 import {MapLegend} from './MapLegend'
+import {Sidebar} from './Sidebar'
 
 class Map extends React.Component {
-  state = {
-    countyName: '',
-    countyCount: 0,
-    populationSum: 0,
-    active: mapOptions[0]
-  };
+  constructor(props) {
+    super(props);
+
+    this.state = {
+      active: mapOptions[0]
+    };
+  }
 
   componentDidMount() {
     MapboxGl.accessToken = 'pk.eyJ1IjoibGVvbm1hayIsImEiOiJkNzQ3YWVlZDczYjMxNjhhMjVhZWI4OWFkM2I2MWUwOCJ9.uL_x_vTDIse10HSvMb6XIg';
@@ -101,11 +103,10 @@ class Map extends React.Component {
         this.map.setFilter("counties-highlighted", fipsFilter);
 
         if (countiesQueried.length > 0) {
-          const selectedCounty = countiesQueried[0].properties;
+          const county = countiesQueried[0].properties;
 
           // TODO: Get county data uid FIPS to display in sidebar
-
-          this.setState({selectedCounty});
+          this.setState({county})
         }
 
         // Display a popup with the name of the county
@@ -122,7 +123,7 @@ class Map extends React.Component {
         this.map.getCanvas().style.cursor = '';
         popup.remove();
         this.map.setFilter('counties-highlighted', ['in', 'FIPS', '']);
-        this.setState({selectedCounty: {}})
+        this.setState({county: null})
       });
 
     })
@@ -150,7 +151,10 @@ class Map extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    return nextProps.year !== this.props.year
+    const selectedNewCounty = !!nextState.county && !!this.state.county
+      && nextState.county.COUNTY !== this.state.county.COUNTY;
+    const selectedNewYear = nextProps.year !== this.props.year;
+    return selectedNewYear || selectedNewCounty
   }
 
   componentDidUpdate(prevProps) {
@@ -168,10 +172,15 @@ class Map extends React.Component {
         width: '100%'
     };
 
-    return <div>
+    return (
+      <div>
         <div style={style} ref={el => this.mapContainer = el} />
         <MapLegend active={this.state.active} />
+        {this.state.county &&
+          <Sidebar county={this.state.county} />
+        }
       </div>
+    )
   }
 }
 
