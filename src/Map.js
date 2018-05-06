@@ -39,7 +39,7 @@ class Map extends React.Component {
         "url": "mapbox://mapbox.82pkq93d"
       });
 
-      const hydratedGeoJson = this.getHydratedGeoJson(this.props.year);
+      const hydratedGeoJson = this.getHydratedGeoJson(this.state.year);
       this.map.addSource(this.mapCountyDataId, {
         type: 'geojson',
         data: hydratedGeoJson
@@ -151,23 +151,25 @@ class Map extends React.Component {
   }
 
   shouldComponentUpdate(nextProps, nextState) {
-    const selectedNewCounty = !!nextState.county && !!this.state.county
+    const newCounty = !!nextState.county && !!this.state.county
       && nextState.county.COUNTY !== this.state.county.COUNTY;
-    const selectedNewData = !!nextState.active && !!this.state.active
+    const newData = !!nextState.active && !!this.state.active
       && nextState.active.name !== this.state.active.name;
-    const selectedNewYear = nextProps.year !== this.props.year;
-    return selectedNewYear || selectedNewCounty || selectedNewData
+    const newYear = nextState.year !== this.state.year;
+    return newYear || newCounty || newData
   }
 
-  componentDidUpdate(prevProps) {
+  componentDidUpdate(prevProps, prevState) {
     // TODO: Update counties based on slider year
-    const selectedNewYear = prevProps.year !== this.props.year;
+    const selectedNewYear = prevState.year !== this.state.year;
     if (selectedNewYear) {
-      console.log('year changed from', prevProps.year, 'to: ', this.props.year);
-      const hydratedGeoJson = this.getHydratedGeoJson(this.props.year);
+      console.log('year changed from', prevState.year, 'to: ', this.state.year);
+      const hydratedGeoJson = this.getHydratedGeoJson(this.state.year);
       this.map.getSource(this.mapCountyDataId).setData(hydratedGeoJson);
     }
   }
+
+  handleChangeYear = year => this.setState({year});
 
   render() {
     const style = {
@@ -188,12 +190,34 @@ class Map extends React.Component {
       );
     };
 
+    const yearLabels = (min=2011, max=2016) => {
+      const labels = {};
+      for (let i = 2011; i <= max; i++) {
+        labels[i] = i
+      }
+      return labels
+    };
+
     return (
       <div>
         <div style={style} ref={el => this.mapContainer = el} />
 
+        <div className="map-title align-center">
+          <h1 className="bg-white absolute top txt-m txt-bold mr12 mb24 py12 px12 shadow-darken10 round z1 wmax240">
+            Opioid Crisis Predictor
+          </h1>
+        </div>
+
         <div className="toggle-group absolute top left ml12 mt12 border border--2 border--white bg-white shadow-darken10 z1">
           {mapOptions.map(renderOptions)}
+        </div>
+
+        <div className="slider-container shadow-darken10 round z1">
+          <Slider min={2011} max={2016} tooltip={true}
+                  labels={yearLabels()}
+                  value={this.state.year}
+                  onChange={this.handleChangeYear}
+          />
         </div>
 
         <MapLegend active={this.state.active} />
