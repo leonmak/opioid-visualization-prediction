@@ -1,0 +1,7052 @@
+[
+  {
+    "year": 2013,
+    "fips": "01003",
+    "opioid_prescribe_perc": 9.641507098,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 1080500,
+    "death_perpop": 0.009434457
+  },
+  {
+    "year": 2013,
+    "fips": "01043",
+    "opioid_prescribe_perc": 7.254989593,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 280000,
+    "death_perpop": 0.014917951
+  },
+  {
+    "year": 2013,
+    "fips": "01073",
+    "opioid_prescribe_perc": 7.567118514,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 611500,
+    "death_perpop": 0.004285656
+  },
+  {
+    "year": 2013,
+    "fips": "01089",
+    "opioid_prescribe_perc": 7.321607256,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 526600,
+    "death_perpop": 0.005829544
+  },
+  {
+    "year": 2013,
+    "fips": "01101",
+    "opioid_prescribe_perc": 6.95389135,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 310200,
+    "death_perpop": 0.005214014
+  },
+  {
+    "year": 2013,
+    "fips": "01103",
+    "opioid_prescribe_perc": 10.0843058,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 103920,
+    "death_perpop": 0.014950787
+  },
+  {
+    "year": 2013,
+    "fips": "01117",
+    "opioid_prescribe_perc": 7.549260405,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 560500,
+    "death_perpop": 0.007962536
+  },
+  {
+    "year": 2013,
+    "fips": "04013",
+    "opioid_prescribe_perc": 6.954345149,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 191643,
+    "Amount_x": 59,
+    "Amount_y": 13449514,
+    "death_perpop": 0.001515663
+  },
+  {
+    "year": 2013,
+    "fips": "04019",
+    "opioid_prescribe_perc": 6.905993243,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 76456,
+    "Amount_x": 7,
+    "Amount_y": 1795800,
+    "death_perpop": 0.003768664
+  },
+  {
+    "year": 2013,
+    "fips": "04021",
+    "opioid_prescribe_perc": 6.400654229,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 14642,
+    "Amount_x": 6,
+    "Amount_y": 995100,
+    "death_perpop": 0.005249141
+  },
+  {
+    "year": 2013,
+    "fips": "04025",
+    "opioid_prescribe_perc": 6.449184886,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 12607,
+    "Amount_x": 2,
+    "Amount_y": 329000,
+    "death_perpop": 0.007994846
+  },
+  {
+    "year": 2013,
+    "fips": "05007",
+    "opioid_prescribe_perc": 6.620686183,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 10947,
+    "Amount_x": 3,
+    "Amount_y": 787800,
+    "death_perpop": 0.00602752
+  },
+  {
+    "year": 2013,
+    "fips": "05119",
+    "opioid_prescribe_perc": 7.114789136,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 34201,
+    "Amount_x": 3,
+    "Amount_y": 846700,
+    "death_perpop": 0.003856507
+  },
+  {
+    "year": 2013,
+    "fips": "05131",
+    "opioid_prescribe_perc": 6.928277637,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 11953,
+    "Amount_x": 1,
+    "Amount_y": 380000,
+    "death_perpop": 0.010211777
+  },
+  {
+    "year": 2013,
+    "fips": "06001",
+    "opioid_prescribe_perc": 6.575602351,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 61249,
+    "Amount_x": 13,
+    "Amount_y": 5372850,
+    "death_perpop": 0.001768807
+  },
+  {
+    "year": 2013,
+    "fips": "06019",
+    "opioid_prescribe_perc": 6.595486061,
+    "Unemployment Rate": 13.2,
+    "total_crimes": 53862,
+    "Amount_x": 2,
+    "Amount_y": 334200,
+    "death_perpop": 0.002152137
+  },
+  {
+    "year": 2013,
+    "fips": "06029",
+    "opioid_prescribe_perc": 6.473282582,
+    "Unemployment Rate": 11.7,
+    "total_crimes": 54895,
+    "Amount_x": 11,
+    "Amount_y": 2374850,
+    "death_perpop": 0.003170309
+  },
+  {
+    "year": 2013,
+    "fips": "06041",
+    "opioid_prescribe_perc": 5.820776854,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 9272,
+    "Amount_x": 2,
+    "Amount_y": 1137000,
+    "death_perpop": 0.005467276
+  },
+  {
+    "year": 2013,
+    "fips": "06057",
+    "opioid_prescribe_perc": 7.647123547,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 4047,
+    "Amount_x": 1,
+    "Amount_y": 227000,
+    "death_perpop": 0.012208522
+  },
+  {
+    "year": 2013,
+    "fips": "06059",
+    "opioid_prescribe_perc": 4.377266419,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 113810,
+    "Amount_x": 17,
+    "Amount_y": 7208766,
+    "death_perpop": 0.001851054
+  },
+  {
+    "year": 2013,
+    "fips": "06065",
+    "opioid_prescribe_perc": 6.435502416,
+    "Unemployment Rate": 9.9,
+    "total_crimes": 77786,
+    "Amount_x": 10,
+    "Amount_y": 2693800,
+    "death_perpop": 0.001758652
+  },
+  {
+    "year": 2013,
+    "fips": "06067",
+    "opioid_prescribe_perc": 6.812480009,
+    "Unemployment Rate": 8.9,
+    "total_crimes": 59033,
+    "Amount_x": 14,
+    "Amount_y": 2978700,
+    "death_perpop": 0.001923977
+  },
+  {
+    "year": 2013,
+    "fips": "06097",
+    "opioid_prescribe_perc": 7.22146754,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 26986,
+    "Amount_x": 1,
+    "Amount_y": 300000,
+    "death_perpop": 0.003930906
+  },
+  {
+    "year": 2013,
+    "fips": "06111",
+    "opioid_prescribe_perc": 5.295748235,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 49726,
+    "Amount_x": 4,
+    "Amount_y": 1766000,
+    "death_perpop": 0.005263278
+  },
+  {
+    "year": 2013,
+    "fips": "06113",
+    "opioid_prescribe_perc": 6.466269958,
+    "Unemployment Rate": 9,
+    "total_crimes": 9231,
+    "Amount_x": 1,
+    "Amount_y": 316000,
+    "death_perpop": 0.00538904
+  },
+  {
+    "year": 2013,
+    "fips": "08001",
+    "opioid_prescribe_perc": 7.357348985,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 41071,
+    "Amount_x": 100,
+    "Amount_y": 18350878,
+    "death_perpop": 0.00446042
+  },
+  {
+    "year": 2013,
+    "fips": "08005",
+    "opioid_prescribe_perc": 7.72388637,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 36154,
+    "Amount_x": 117,
+    "Amount_y": 22457173,
+    "death_perpop": 0.004141857
+  },
+  {
+    "year": 2013,
+    "fips": "08013",
+    "opioid_prescribe_perc": 6.796202139,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 18249,
+    "Amount_x": 56,
+    "Amount_y": 14156935,
+    "death_perpop": 0.006059256
+  },
+  {
+    "year": 2013,
+    "fips": "08031",
+    "opioid_prescribe_perc": 7.043990821,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 13477,
+    "Amount_x": 121,
+    "Amount_y": 26694695,
+    "death_perpop": 0.004166803
+  },
+  {
+    "year": 2013,
+    "fips": "08035",
+    "opioid_prescribe_perc": 5.890078608,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 7836,
+    "Amount_x": 125,
+    "Amount_y": 34183664,
+    "death_perpop": 0.004023942
+  },
+  {
+    "year": 2013,
+    "fips": "08059",
+    "opioid_prescribe_perc": 7.075617392,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 28663,
+    "Amount_x": 252,
+    "Amount_y": 62885491,
+    "death_perpop": 0.003814008
+  },
+  {
+    "year": 2013,
+    "fips": "08069",
+    "opioid_prescribe_perc": 7.268243477,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 15173,
+    "Amount_x": 86,
+    "Amount_y": 21259133,
+    "death_perpop": 0.004509045
+  },
+  {
+    "year": 2013,
+    "fips": "08077",
+    "opioid_prescribe_perc": 7.113225807,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 8617,
+    "Amount_x": 2,
+    "Amount_y": 170150,
+    "death_perpop": 0.007440074
+  },
+  {
+    "year": 2013,
+    "fips": "08101",
+    "opioid_prescribe_perc": 8.853513773,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 5357,
+    "Amount_x": 60,
+    "Amount_y": 9562963,
+    "death_perpop": 0.01243379
+  },
+  {
+    "year": 2013,
+    "fips": "09001",
+    "opioid_prescribe_perc": 4.297111107,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 24126,
+    "Amount_x": 33,
+    "Amount_y": 11563560,
+    "death_perpop": 0.001927535
+  },
+  {
+    "year": 2013,
+    "fips": "09003",
+    "opioid_prescribe_perc": 4.21155517,
+    "Unemployment Rate": 8,
+    "total_crimes": 50825,
+    "Amount_x": 25,
+    "Amount_y": 5573467,
+    "death_perpop": 0.002977322
+  },
+  {
+    "year": 2013,
+    "fips": "09005",
+    "opioid_prescribe_perc": 4.621682713,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 3493,
+    "Amount_x": 2,
+    "Amount_y": 310000,
+    "death_perpop": 0.006932224
+  },
+  {
+    "year": 2013,
+    "fips": "09007",
+    "opioid_prescribe_perc": 5.17908444,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 4134,
+    "Amount_x": 1,
+    "Amount_y": 140109,
+    "death_perpop": 0.006441146
+  },
+  {
+    "year": 2013,
+    "fips": "09013",
+    "opioid_prescribe_perc": 5.002828519,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 1711,
+    "Amount_x": 9,
+    "Amount_y": 1732600,
+    "death_perpop": 0.006598961
+  },
+  {
+    "year": 2013,
+    "fips": "10001",
+    "opioid_prescribe_perc": 8.546618218,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 10861,
+    "Amount_x": 10,
+    "Amount_y": 2262081,
+    "death_perpop": 0.008351926
+  },
+  {
+    "year": 2013,
+    "fips": "10005",
+    "opioid_prescribe_perc": 5.256489497,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 11643,
+    "Amount_x": 5,
+    "Amount_y": 506429,
+    "death_perpop": 0.005408329
+  },
+  {
+    "year": 2013,
+    "fips": "12009",
+    "opioid_prescribe_perc": 6.018498198,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 282003,
+    "death_perpop": 0.005298671
+  },
+  {
+    "year": 2013,
+    "fips": "12011",
+    "opioid_prescribe_perc": 5.045987779,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 1350650,
+    "death_perpop": 0.002840312
+  },
+  {
+    "year": 2013,
+    "fips": "12015",
+    "opioid_prescribe_perc": 8.371906135,
+    "Unemployment Rate": 8,
+    "total_crimes": 0,
+    "Amount_x": 5,
+    "Amount_y": 834700,
+    "death_perpop": 0.008002512
+  },
+  {
+    "year": 2013,
+    "fips": "12017",
+    "opioid_prescribe_perc": 6.97247456,
+    "Unemployment Rate": 9.7,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 150000,
+    "death_perpop": 0.012916188
+  },
+  {
+    "year": 2013,
+    "fips": "12019",
+    "opioid_prescribe_perc": 8.957084473,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 410480,
+    "death_perpop": 0.007032168
+  },
+  {
+    "year": 2013,
+    "fips": "12021",
+    "opioid_prescribe_perc": 5.402173301,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 0,
+    "Amount_x": 11,
+    "Amount_y": 2275718,
+    "death_perpop": 0.004712814
+  },
+  {
+    "year": 2013,
+    "fips": "12031",
+    "opioid_prescribe_perc": 7.650377274,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 173000,
+    "death_perpop": 0.004476456
+  },
+  {
+    "year": 2013,
+    "fips": "12033",
+    "opioid_prescribe_perc": 8.098826927,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 346000,
+    "death_perpop": 0.006827104
+  },
+  {
+    "year": 2013,
+    "fips": "12057",
+    "opioid_prescribe_perc": 7.014330109,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 0,
+    "Amount_x": 9,
+    "Amount_y": 2468898,
+    "death_perpop": 0.00452946
+  },
+  {
+    "year": 2013,
+    "fips": "12071",
+    "opioid_prescribe_perc": 6.569658594,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 0,
+    "Amount_x": 8,
+    "Amount_y": 1845049,
+    "death_perpop": 0.002944399
+  },
+  {
+    "year": 2013,
+    "fips": "12081",
+    "opioid_prescribe_perc": 6.474384872,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 1746880,
+    "death_perpop": 0.005570614
+  },
+  {
+    "year": 2013,
+    "fips": "12083",
+    "opioid_prescribe_perc": 5.507706366,
+    "Unemployment Rate": 8.5,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 165200,
+    "death_perpop": 0.00611712
+  },
+  {
+    "year": 2013,
+    "fips": "12085",
+    "opioid_prescribe_perc": 6.035541484,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 368000,
+    "death_perpop": 0.007391629
+  },
+  {
+    "year": 2013,
+    "fips": "12089",
+    "opioid_prescribe_perc": 5.056034745,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 122480,
+    "death_perpop": 0.01607954
+  },
+  {
+    "year": 2013,
+    "fips": "12095",
+    "opioid_prescribe_perc": 5.400145962,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 0,
+    "Amount_x": 5,
+    "Amount_y": 994450,
+    "death_perpop": 0.00274489
+  },
+  {
+    "year": 2013,
+    "fips": "12097",
+    "opioid_prescribe_perc": 4.956879521,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 838691,
+    "death_perpop": 0.004986964
+  },
+  {
+    "year": 2013,
+    "fips": "12101",
+    "opioid_prescribe_perc": 6.680418408,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 208800,
+    "death_perpop": 0.008007523
+  },
+  {
+    "year": 2013,
+    "fips": "12103",
+    "opioid_prescribe_perc": 5.862794975,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 707000,
+    "death_perpop": 0.004151656
+  },
+  {
+    "year": 2013,
+    "fips": "12115",
+    "opioid_prescribe_perc": 5.677519518,
+    "Unemployment Rate": 7,
+    "total_crimes": 0,
+    "Amount_x": 6,
+    "Amount_y": 1587250,
+    "death_perpop": 0.005734308
+  },
+  {
+    "year": 2013,
+    "fips": "12117",
+    "opioid_prescribe_perc": 4.720331853,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 144200,
+    "death_perpop": 0.005059907
+  },
+  {
+    "year": 2013,
+    "fips": "12127",
+    "opioid_prescribe_perc": 6.6579344,
+    "Unemployment Rate": 8.2,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 426123,
+    "death_perpop": 0.00563437
+  },
+  {
+    "year": 2013,
+    "fips": "13047",
+    "opioid_prescribe_perc": 6.818510261,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 3379,
+    "Amount_x": 1,
+    "Amount_y": 201600,
+    "death_perpop": 0.015373736
+  },
+  {
+    "year": 2013,
+    "fips": "13051",
+    "opioid_prescribe_perc": 6.539505459,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 14146,
+    "Amount_x": 4,
+    "Amount_y": 725836,
+    "death_perpop": 0.00614975
+  },
+  {
+    "year": 2013,
+    "fips": "13057",
+    "opioid_prescribe_perc": 10.96291197,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 7045,
+    "Amount_x": 5,
+    "Amount_y": 1158377,
+    "death_perpop": 0.004518447
+  },
+  {
+    "year": 2013,
+    "fips": "13067",
+    "opioid_prescribe_perc": 7.122800922,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 26974,
+    "Amount_x": 13,
+    "Amount_y": 2609647,
+    "death_perpop": 0.004452662
+  },
+  {
+    "year": 2013,
+    "fips": "13121",
+    "opioid_prescribe_perc": 6.340410419,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 73397,
+    "Amount_x": 9,
+    "Amount_y": 2344405,
+    "death_perpop": 0.002556831
+  },
+  {
+    "year": 2013,
+    "fips": "13135",
+    "opioid_prescribe_perc": 6.257052923,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 11503,
+    "Amount_x": 5,
+    "Amount_y": 982398,
+    "death_perpop": 0.001543859
+  },
+  {
+    "year": 2013,
+    "fips": "13139",
+    "opioid_prescribe_perc": 5.970673902,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 5431,
+    "Amount_x": 1,
+    "Amount_y": 215000,
+    "death_perpop": 0.006471933
+  },
+  {
+    "year": 2013,
+    "fips": "15003",
+    "opioid_prescribe_perc": 3.14313962,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 38584,
+    "Amount_x": 1,
+    "Amount_y": 433140,
+    "death_perpop": 0.00198012
+  },
+  {
+    "year": 2013,
+    "fips": "16001",
+    "opioid_prescribe_perc": 7.940797126,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 21827,
+    "Amount_x": 5,
+    "Amount_y": 1313500,
+    "death_perpop": 0.004400322
+  },
+  {
+    "year": 2013,
+    "fips": "17019",
+    "opioid_prescribe_perc": 5.650321797,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 538345,
+    "death_perpop": 0.006887188
+  },
+  {
+    "year": 2013,
+    "fips": "17031",
+    "opioid_prescribe_perc": 4.636060388,
+    "Unemployment Rate": 9.7,
+    "total_crimes": 0,
+    "Amount_x": 22,
+    "Amount_y": 5461519,
+    "death_perpop": 0.001945372
+  },
+  {
+    "year": 2013,
+    "fips": "17089",
+    "opioid_prescribe_perc": 4.720598801,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 984631,
+    "death_perpop": 0.003764049
+  },
+  {
+    "year": 2013,
+    "fips": "17097",
+    "opioid_prescribe_perc": 5.232918586,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 1299000,
+    "death_perpop": 0.00320458
+  },
+  {
+    "year": 2013,
+    "fips": "17119",
+    "opioid_prescribe_perc": 5.971850056,
+    "Unemployment Rate": 8.9,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 105000,
+    "death_perpop": 0.00694333
+  },
+  {
+    "year": 2013,
+    "fips": "17143",
+    "opioid_prescribe_perc": 6.015358553,
+    "Unemployment Rate": 9.6,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 59600,
+    "death_perpop": 0.00801051
+  },
+  {
+    "year": 2013,
+    "fips": "17167",
+    "opioid_prescribe_perc": 5.415167649,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 543418,
+    "death_perpop": 0.00786199
+  },
+  {
+    "year": 2013,
+    "fips": "17179",
+    "opioid_prescribe_perc": 5.122237611,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 192430,
+    "death_perpop": 0.011769119
+  },
+  {
+    "year": 2013,
+    "fips": "17197",
+    "opioid_prescribe_perc": 4.937259558,
+    "Unemployment Rate": 9.9,
+    "total_crimes": 0,
+    "Amount_x": 5,
+    "Amount_y": 1174266,
+    "death_perpop": 0.004278275
+  },
+  {
+    "year": 2013,
+    "fips": "18003",
+    "opioid_prescribe_perc": 7.965111807,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 9574,
+    "Amount_x": 59,
+    "Amount_y": 7129362,
+    "death_perpop": 0.006936506
+  },
+  {
+    "year": 2013,
+    "fips": "18019",
+    "opioid_prescribe_perc": 7.849423182,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 5989,
+    "Amount_x": 35,
+    "Amount_y": 4223295,
+    "death_perpop": 0.022331198
+  },
+  {
+    "year": 2013,
+    "fips": "18035",
+    "opioid_prescribe_perc": 7.640223916,
+    "Unemployment Rate": 8.6,
+    "total_crimes": 3433,
+    "Amount_x": 12,
+    "Amount_y": 2292977,
+    "death_perpop": 0.00937255
+  },
+  {
+    "year": 2013,
+    "fips": "18053",
+    "opioid_prescribe_perc": 6.09592165,
+    "Unemployment Rate": 9,
+    "total_crimes": 4189,
+    "Amount_x": 24,
+    "Amount_y": 3109200,
+    "death_perpop": 0.034617049
+  },
+  {
+    "year": 2013,
+    "fips": "18057",
+    "opioid_prescribe_perc": 7.11855765,
+    "Unemployment Rate": 5,
+    "total_crimes": 6762,
+    "Amount_x": 226,
+    "Amount_y": 50494453,
+    "death_perpop": 0.004836008
+  },
+  {
+    "year": 2013,
+    "fips": "18067",
+    "opioid_prescribe_perc": 6.903892539,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 5764,
+    "Amount_x": 222,
+    "Amount_y": 26773411,
+    "death_perpop": 0.016898212
+  },
+  {
+    "year": 2013,
+    "fips": "18081",
+    "opioid_prescribe_perc": 5.783890606,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 6751,
+    "Amount_x": 63,
+    "Amount_y": 10744504,
+    "death_perpop": 0.009777151
+  },
+  {
+    "year": 2013,
+    "fips": "18089",
+    "opioid_prescribe_perc": 6.380715473,
+    "Unemployment Rate": 9.1,
+    "total_crimes": 26784,
+    "Amount_x": 116,
+    "Amount_y": 20992436,
+    "death_perpop": 0.002971258
+  },
+  {
+    "year": 2013,
+    "fips": "18095",
+    "opioid_prescribe_perc": 9.744312375,
+    "Unemployment Rate": 9.3,
+    "total_crimes": 6340,
+    "Amount_x": 18,
+    "Amount_y": 2354100,
+    "death_perpop": 0.018156525
+  },
+  {
+    "year": 2013,
+    "fips": "18097",
+    "opioid_prescribe_perc": 7.092135678,
+    "Unemployment Rate": 8.5,
+    "total_crimes": 66414,
+    "Amount_x": 175,
+    "Amount_y": 28961863,
+    "death_perpop": 0.003386918
+  },
+  {
+    "year": 2013,
+    "fips": "18105",
+    "opioid_prescribe_perc": 6.310735366,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 7279,
+    "Amount_x": 179,
+    "Amount_y": 32850283,
+    "death_perpop": 0.010636865
+  },
+  {
+    "year": 2013,
+    "fips": "18107",
+    "opioid_prescribe_perc": 5.349994868,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 1955,
+    "Amount_x": 74,
+    "Amount_y": 8002739,
+    "death_perpop": 0.026141057
+  },
+  {
+    "year": 2013,
+    "fips": "18109",
+    "opioid_prescribe_perc": 9.042209366,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 2656,
+    "Amount_x": 43,
+    "Amount_y": 5750882,
+    "death_perpop": 0.023069381
+  },
+  {
+    "year": 2013,
+    "fips": "18127",
+    "opioid_prescribe_perc": 7.235289532,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 6389,
+    "Amount_x": 20,
+    "Amount_y": 2794889,
+    "death_perpop": 0.007846356
+  },
+  {
+    "year": 2013,
+    "fips": "18143",
+    "opioid_prescribe_perc": 7.450576052,
+    "Unemployment Rate": 8.9,
+    "total_crimes": 914,
+    "Amount_x": 1,
+    "Amount_y": 213600,
+    "death_perpop": 0.042032701
+  },
+  {
+    "year": 2013,
+    "fips": "18157",
+    "opioid_prescribe_perc": 6.774883837,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 7509,
+    "Amount_x": 46,
+    "Amount_y": 7107469,
+    "death_perpop": 0.009013424
+  },
+  {
+    "year": 2013,
+    "fips": "18163",
+    "opioid_prescribe_perc": 8.51732924,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 11353,
+    "Amount_x": 299,
+    "Amount_y": 39329579,
+    "death_perpop": 0.008662413
+  },
+  {
+    "year": 2013,
+    "fips": "19113",
+    "opioid_prescribe_perc": 4.916110664,
+    "Unemployment Rate": 5,
+    "total_crimes": 11638,
+    "Amount_x": 210,
+    "Amount_y": 35637998,
+    "death_perpop": 0.00464479
+  },
+  {
+    "year": 2013,
+    "fips": "19153",
+    "opioid_prescribe_perc": 6.229192666,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 20851,
+    "Amount_x": 444,
+    "Amount_y": 80401605,
+    "death_perpop": 0.005108442
+  },
+  {
+    "year": 2013,
+    "fips": "19163",
+    "opioid_prescribe_perc": 4.967708456,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 8526,
+    "Amount_x": 201,
+    "Amount_y": 29361744,
+    "death_perpop": 0.007405257
+  },
+  {
+    "year": 2013,
+    "fips": "20091",
+    "opioid_prescribe_perc": 7.05315436,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 24487,
+    "Amount_x": 272,
+    "Amount_y": 51614032,
+    "death_perpop": 0.002857587
+  },
+  {
+    "year": 2013,
+    "fips": "20173",
+    "opioid_prescribe_perc": 7.028534904,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 21263,
+    "Amount_x": 449,
+    "Amount_y": 65533909,
+    "death_perpop": 0.005060638
+  },
+  {
+    "year": 2013,
+    "fips": "20209",
+    "opioid_prescribe_perc": 7.297323006,
+    "Unemployment Rate": 8,
+    "total_crimes": 7761,
+    "Amount_x": 12,
+    "Amount_y": 1275900,
+    "death_perpop": 0.006912631
+  },
+  {
+    "year": 2013,
+    "fips": "21015",
+    "opioid_prescribe_perc": 9.523913043,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 5938,
+    "Amount_x": 154,
+    "Amount_y": 31200009,
+    "death_perpop": 0.012974796
+  },
+  {
+    "year": 2013,
+    "fips": "21029",
+    "opioid_prescribe_perc": 5.479949193,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 2028,
+    "Amount_x": 21,
+    "Amount_y": 3291833,
+    "death_perpop": 0.019763887
+  },
+  {
+    "year": 2013,
+    "fips": "21037",
+    "opioid_prescribe_perc": 5.837152118,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 11063,
+    "Amount_x": 78,
+    "Amount_y": 15027879,
+    "death_perpop": 0.022000264
+  },
+  {
+    "year": 2013,
+    "fips": "21065",
+    "opioid_prescribe_perc": 4.84945377,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 263,
+    "Amount_x": 1,
+    "Amount_y": 55000,
+    "death_perpop": 0.068998827
+  },
+  {
+    "year": 2013,
+    "fips": "21067",
+    "opioid_prescribe_perc": 7.961710263,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 6695,
+    "Amount_x": 21,
+    "Amount_y": 4718985,
+    "death_perpop": 0.005837635
+  },
+  {
+    "year": 2013,
+    "fips": "21111",
+    "opioid_prescribe_perc": 6.661365989,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 56820,
+    "Amount_x": 210,
+    "Amount_y": 40882732,
+    "death_perpop": 0.004883498
+  },
+  {
+    "year": 2013,
+    "fips": "21117",
+    "opioid_prescribe_perc": 7.415348879,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 9918,
+    "Amount_x": 137,
+    "Amount_y": 25251657,
+    "death_perpop": 0.013140726
+  },
+  {
+    "year": 2013,
+    "fips": "21121",
+    "opioid_prescribe_perc": 5.813388114,
+    "Unemployment Rate": 13,
+    "total_crimes": 441,
+    "Amount_x": 1,
+    "Amount_y": 85600,
+    "death_perpop": 0.03151095
+  },
+  {
+    "year": 2013,
+    "fips": "21125",
+    "opioid_prescribe_perc": 6.699660959,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 2304,
+    "Amount_x": 5,
+    "Amount_y": 511000,
+    "death_perpop": 0.023544449
+  },
+  {
+    "year": 2013,
+    "fips": "21151",
+    "opioid_prescribe_perc": 3.609788203,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 4680,
+    "Amount_x": 13,
+    "Amount_y": 1653520,
+    "death_perpop": 0.01887104
+  },
+  {
+    "year": 2013,
+    "fips": "21217",
+    "opioid_prescribe_perc": 3.956525212,
+    "Unemployment Rate": 9.5,
+    "total_crimes": 1187,
+    "Amount_x": 3,
+    "Amount_y": 451750,
+    "death_perpop": 0.040500587
+  },
+  {
+    "year": 2013,
+    "fips": "21227",
+    "opioid_prescribe_perc": 6.490483684,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 7526,
+    "Amount_x": 11,
+    "Amount_y": 1713006,
+    "death_perpop": 0.010246777
+  },
+  {
+    "year": 2013,
+    "fips": "22071",
+    "opioid_prescribe_perc": 5.627975877,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 47666,
+    "Amount_x": 2,
+    "Amount_y": 434000,
+    "death_perpop": 0.008937035
+  },
+  {
+    "year": 2013,
+    "fips": "23005",
+    "opioid_prescribe_perc": 6.198195609,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 14681,
+    "Amount_x": 117,
+    "Amount_y": 27499835,
+    "death_perpop": 0.004930949
+  },
+  {
+    "year": 2013,
+    "fips": "23031",
+    "opioid_prescribe_perc": 6.329690751,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 9870,
+    "Amount_x": 257,
+    "Amount_y": 50603290,
+    "death_perpop": 0.006281249
+  },
+  {
+    "year": 2013,
+    "fips": "24005",
+    "opioid_prescribe_perc": 6.442092365,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 35505,
+    "Amount_x": 11,
+    "Amount_y": 3227400,
+    "death_perpop": 0.00415925
+  },
+  {
+    "year": 2013,
+    "fips": "24005",
+    "opioid_prescribe_perc": 6.442092365,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 35505,
+    "Amount_x": 11,
+    "Amount_y": 3227400,
+    "death_perpop": 0.006292831
+  },
+  {
+    "year": 2013,
+    "fips": "24013",
+    "opioid_prescribe_perc": 4.692371151,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 5690,
+    "Amount_x": 1,
+    "Amount_y": 417000,
+    "death_perpop": 0.008073342
+  },
+  {
+    "year": 2013,
+    "fips": "24015",
+    "opioid_prescribe_perc": 4.81297551,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 7611,
+    "Amount_x": 1,
+    "Amount_y": 384000,
+    "death_perpop": 0.011144326
+  },
+  {
+    "year": 2013,
+    "fips": "24021",
+    "opioid_prescribe_perc": 6.245048679,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 9826,
+    "Amount_x": 3,
+    "Amount_y": 867657,
+    "death_perpop": 0.006886995
+  },
+  {
+    "year": 2013,
+    "fips": "24025",
+    "opioid_prescribe_perc": 6.570931698,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 11298,
+    "Amount_x": 6,
+    "Amount_y": 1184900,
+    "death_perpop": 0.005389708
+  },
+  {
+    "year": 2013,
+    "fips": "24027",
+    "opioid_prescribe_perc": 5.304278481,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 10372,
+    "Amount_x": 1,
+    "Amount_y": 175000,
+    "death_perpop": 0.003673647
+  },
+  {
+    "year": 2013,
+    "fips": "24031",
+    "opioid_prescribe_perc": 4.663296546,
+    "Unemployment Rate": 5,
+    "total_crimes": 22523,
+    "Amount_x": 9,
+    "Amount_y": 4397500,
+    "death_perpop": 0.001592501
+  },
+  {
+    "year": 2013,
+    "fips": "24043",
+    "opioid_prescribe_perc": 5.739474211,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 8421,
+    "Amount_x": 3,
+    "Amount_y": 779000,
+    "death_perpop": 0.009384636
+  },
+  {
+    "year": 2013,
+    "fips": "25001",
+    "opioid_prescribe_perc": 4.223497406,
+    "Unemployment Rate": 8.2,
+    "total_crimes": 8305,
+    "Amount_x": 20,
+    "Amount_y": 4388166,
+    "death_perpop": 0.006963045
+  },
+  {
+    "year": 2013,
+    "fips": "25003",
+    "opioid_prescribe_perc": 5.03647709,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 3949,
+    "Amount_x": 3,
+    "Amount_y": 675817,
+    "death_perpop": 0.008075929
+  },
+  {
+    "year": 2013,
+    "fips": "25005",
+    "opioid_prescribe_perc": 4.447715686,
+    "Unemployment Rate": 8.6,
+    "total_crimes": 19635,
+    "Amount_x": 118,
+    "Amount_y": 24942642,
+    "death_perpop": 0.007569524
+  },
+  {
+    "year": 2013,
+    "fips": "25009",
+    "opioid_prescribe_perc": 4.355634881,
+    "Unemployment Rate": 7,
+    "total_crimes": 19259,
+    "Amount_x": 139,
+    "Amount_y": 30284165,
+    "death_perpop": 0.004543742
+  },
+  {
+    "year": 2013,
+    "fips": "25013",
+    "opioid_prescribe_perc": 5.695415341,
+    "Unemployment Rate": 9.1,
+    "total_crimes": 16838,
+    "Amount_x": 141,
+    "Amount_y": 22465191,
+    "death_perpop": 0.005733627
+  },
+  {
+    "year": 2013,
+    "fips": "25015",
+    "opioid_prescribe_perc": 4.647548879,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 4964,
+    "Amount_x": 25,
+    "Amount_y": 3936550,
+    "death_perpop": 0.006258018
+  },
+  {
+    "year": 2013,
+    "fips": "25017",
+    "opioid_prescribe_perc": 4.175847405,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 25491,
+    "Amount_x": 244,
+    "Amount_y": 59607111,
+    "death_perpop": 0.002472003
+  },
+  {
+    "year": 2013,
+    "fips": "25021",
+    "opioid_prescribe_perc": 4.567882699,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 10888,
+    "Amount_x": 276,
+    "Amount_y": 65152467,
+    "death_perpop": 0.003324314
+  },
+  {
+    "year": 2013,
+    "fips": "25023",
+    "opioid_prescribe_perc": 4.454086107,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 15524,
+    "Amount_x": 82,
+    "Amount_y": 19823188,
+    "death_perpop": 0.005202508
+  },
+  {
+    "year": 2013,
+    "fips": "25025",
+    "opioid_prescribe_perc": 4.179044455,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 22380,
+    "Amount_x": 57,
+    "Amount_y": 13756444,
+    "death_perpop": 0.004785566
+  },
+  {
+    "year": 2013,
+    "fips": "25027",
+    "opioid_prescribe_perc": 4.471731179,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 24473,
+    "Amount_x": 92,
+    "Amount_y": 17867356,
+    "death_perpop": 0.004642804
+  },
+  {
+    "year": 2013,
+    "fips": "26017",
+    "opioid_prescribe_perc": 7.062260818,
+    "Unemployment Rate": 8.8,
+    "total_crimes": 3836,
+    "Amount_x": 7,
+    "Amount_y": 810125,
+    "death_perpop": 0.012156918
+  },
+  {
+    "year": 2013,
+    "fips": "26021",
+    "opioid_prescribe_perc": 7.234496669,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 7834,
+    "Amount_x": 20,
+    "Amount_y": 3335069,
+    "death_perpop": 0.007048255
+  },
+  {
+    "year": 2013,
+    "fips": "26025",
+    "opioid_prescribe_perc": 8.153262841,
+    "Unemployment Rate": 8,
+    "total_crimes": 5682,
+    "Amount_x": 8,
+    "Amount_y": 894558,
+    "death_perpop": 0.019245146
+  },
+  {
+    "year": 2013,
+    "fips": "26049",
+    "opioid_prescribe_perc": 8.192747796,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 16678,
+    "Amount_x": 13,
+    "Amount_y": 2069834,
+    "death_perpop": 0.005667742
+  },
+  {
+    "year": 2013,
+    "fips": "26065",
+    "opioid_prescribe_perc": 7.710742695,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 11583,
+    "Amount_x": 110,
+    "Amount_y": 17485289,
+    "death_perpop": 0.004732781
+  },
+  {
+    "year": 2013,
+    "fips": "26075",
+    "opioid_prescribe_perc": 10.984741,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 4769,
+    "Amount_x": 58,
+    "Amount_y": 9078161,
+    "death_perpop": 0.011228315
+  },
+  {
+    "year": 2013,
+    "fips": "26077",
+    "opioid_prescribe_perc": 7.228347435,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 10187,
+    "Amount_x": 158,
+    "Amount_y": 22730720,
+    "death_perpop": 0.00510645
+  },
+  {
+    "year": 2013,
+    "fips": "26081",
+    "opioid_prescribe_perc": 8.219156826,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 21975,
+    "Amount_x": 401,
+    "Amount_y": 83996499,
+    "death_perpop": 0.0040686
+  },
+  {
+    "year": 2013,
+    "fips": "26093",
+    "opioid_prescribe_perc": 7.250022206,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 2792,
+    "Amount_x": 50,
+    "Amount_y": 9283146,
+    "death_perpop": 0.007930518
+  },
+  {
+    "year": 2013,
+    "fips": "26099",
+    "opioid_prescribe_perc": 7.725675757,
+    "Unemployment Rate": 9.5,
+    "total_crimes": 22631,
+    "Amount_x": 70,
+    "Amount_y": 11990765,
+    "death_perpop": 0.00515312
+  },
+  {
+    "year": 2013,
+    "fips": "26115",
+    "opioid_prescribe_perc": 8.097884631,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 3476,
+    "Amount_x": 30,
+    "Amount_y": 5190389,
+    "death_perpop": 0.012578783
+  },
+  {
+    "year": 2013,
+    "fips": "26121",
+    "opioid_prescribe_perc": 9.376163004,
+    "Unemployment Rate": 10,
+    "total_crimes": 4293,
+    "Amount_x": 58,
+    "Amount_y": 8521500,
+    "death_perpop": 0.007345078
+  },
+  {
+    "year": 2013,
+    "fips": "26125",
+    "opioid_prescribe_perc": 6.701862277,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 30397,
+    "Amount_x": 238,
+    "Amount_y": 48396703,
+    "death_perpop": 0.003399808
+  },
+  {
+    "year": 2013,
+    "fips": "26145",
+    "opioid_prescribe_perc": 8.816220594,
+    "Unemployment Rate": 9.1,
+    "total_crimes": 8751,
+    "Amount_x": 10,
+    "Amount_y": 1245800,
+    "death_perpop": 0.01033511
+  },
+  {
+    "year": 2013,
+    "fips": "26161",
+    "opioid_prescribe_perc": 6.932104806,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 9087,
+    "Amount_x": 111,
+    "Amount_y": 24334925,
+    "death_perpop": 0.00413169
+  },
+  {
+    "year": 2013,
+    "fips": "26163",
+    "opioid_prescribe_perc": 7.316093716,
+    "Unemployment Rate": 11.5,
+    "total_crimes": 69633,
+    "Amount_x": 296,
+    "Amount_y": 54250857,
+    "death_perpop": 0.003328935
+  },
+  {
+    "year": 2013,
+    "fips": "27003",
+    "opioid_prescribe_perc": 5.31841087,
+    "Unemployment Rate": 5,
+    "total_crimes": 12518,
+    "Amount_x": 13,
+    "Amount_y": 2531300,
+    "death_perpop": 0.004681731
+  },
+  {
+    "year": 2013,
+    "fips": "27037",
+    "opioid_prescribe_perc": 5.362197009,
+    "Unemployment Rate": 4.5,
+    "total_crimes": 11722,
+    "Amount_x": 13,
+    "Amount_y": 2784655,
+    "death_perpop": 0.002550886
+  },
+  {
+    "year": 2013,
+    "fips": "27053",
+    "opioid_prescribe_perc": 5.341615111,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 63268,
+    "Amount_x": 64,
+    "Amount_y": 15157791,
+    "death_perpop": 0.00229618
+  },
+  {
+    "year": 2013,
+    "fips": "27123",
+    "opioid_prescribe_perc": 5.260163563,
+    "Unemployment Rate": 4.9,
+    "total_crimes": 24118,
+    "Amount_x": 6,
+    "Amount_y": 1041050,
+    "death_perpop": 0.003604716
+  },
+  {
+    "year": 2013,
+    "fips": "29047",
+    "opioid_prescribe_perc": 5.723564752,
+    "Unemployment Rate": 6,
+    "total_crimes": 7819,
+    "Amount_x": 60,
+    "Amount_y": 10706129,
+    "death_perpop": 0.004394117
+  },
+  {
+    "year": 2013,
+    "fips": "29077",
+    "opioid_prescribe_perc": 6.76473791,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 14100,
+    "Amount_x": 6,
+    "Amount_y": 784731,
+    "death_perpop": 0.005523366
+  },
+  {
+    "year": 2013,
+    "fips": "29095",
+    "opioid_prescribe_perc": 5.666259845,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 36836,
+    "Amount_x": 69,
+    "Amount_y": 11979448,
+    "death_perpop": 0.003585258
+  },
+  {
+    "year": 2013,
+    "fips": "29099",
+    "opioid_prescribe_perc": 8.010355465,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 12926,
+    "Amount_x": 35,
+    "Amount_y": 4650688,
+    "death_perpop": 0.010444623
+  },
+  {
+    "year": 2013,
+    "fips": "31055",
+    "opioid_prescribe_perc": 5.367134801,
+    "Unemployment Rate": 4.2,
+    "total_crimes": 33832,
+    "Amount_x": 552,
+    "Amount_y": 107744899,
+    "death_perpop": 0.003237556
+  },
+  {
+    "year": 2013,
+    "fips": "31109",
+    "opioid_prescribe_perc": 4.622121515,
+    "Unemployment Rate": 3.5,
+    "total_crimes": 22227,
+    "Amount_x": 159,
+    "Amount_y": 26645257,
+    "death_perpop": 0.004771529
+  },
+  {
+    "year": 2013,
+    "fips": "32003",
+    "opioid_prescribe_perc": 7.447598246,
+    "Unemployment Rate": 9.6,
+    "total_crimes": 145225,
+    "Amount_x": 7,
+    "Amount_y": 1182125,
+    "death_perpop": 0.003116674
+  },
+  {
+    "year": 2013,
+    "fips": "32031",
+    "opioid_prescribe_perc": 8.705270449,
+    "Unemployment Rate": 9.4,
+    "total_crimes": 27843,
+    "Amount_x": 3,
+    "Amount_y": 772806,
+    "death_perpop": 0.006606065
+  },
+  {
+    "year": 2013,
+    "fips": "33011",
+    "opioid_prescribe_perc": 5.425980913,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 15623,
+    "Amount_x": 17,
+    "Amount_y": 3970519,
+    "death_perpop": 0.005418749
+  },
+  {
+    "year": 2013,
+    "fips": "33015",
+    "opioid_prescribe_perc": 5.381273769,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 12454,
+    "Amount_x": 33,
+    "Amount_y": 7245460,
+    "death_perpop": 0.005640991
+  },
+  {
+    "year": 2013,
+    "fips": "34001",
+    "opioid_prescribe_perc": 6.015931745,
+    "Unemployment Rate": 11.6,
+    "total_crimes": 19249,
+    "Amount_x": 27,
+    "Amount_y": 3871597,
+    "death_perpop": 0.00907698
+  },
+  {
+    "year": 2013,
+    "fips": "34003",
+    "opioid_prescribe_perc": 3.061768129,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 30758,
+    "Amount_x": 48,
+    "Amount_y": 17979600,
+    "death_perpop": 0.002546556
+  },
+  {
+    "year": 2013,
+    "fips": "34005",
+    "opioid_prescribe_perc": 5.443609267,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 24366,
+    "Amount_x": 31,
+    "Amount_y": 6194858,
+    "death_perpop": 0.008419448
+  },
+  {
+    "year": 2013,
+    "fips": "34007",
+    "opioid_prescribe_perc": 5.927523458,
+    "Unemployment Rate": 9.3,
+    "total_crimes": 34876,
+    "Amount_x": 33,
+    "Amount_y": 5405884,
+    "death_perpop": 0.019764809
+  },
+  {
+    "year": 2013,
+    "fips": "34011",
+    "opioid_prescribe_perc": 4.646351271,
+    "Unemployment Rate": 11.8,
+    "total_crimes": 10909,
+    "Amount_x": 2,
+    "Amount_y": 255367,
+    "death_perpop": 0.007394028
+  },
+  {
+    "year": 2013,
+    "fips": "34013",
+    "opioid_prescribe_perc": 4.129668966,
+    "Unemployment Rate": 9.7,
+    "total_crimes": 47125,
+    "Amount_x": 18,
+    "Amount_y": 7499500,
+    "death_perpop": 0.003500049
+  },
+  {
+    "year": 2013,
+    "fips": "34015",
+    "opioid_prescribe_perc": 6.484441877,
+    "Unemployment Rate": 8.9,
+    "total_crimes": 22133,
+    "Amount_x": 12,
+    "Amount_y": 1855513,
+    "death_perpop": 0.020891894
+  },
+  {
+    "year": 2013,
+    "fips": "34017",
+    "opioid_prescribe_perc": 3.421244466,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 26504,
+    "Amount_x": 12,
+    "Amount_y": 3765721,
+    "death_perpop": 0.00334712
+  },
+  {
+    "year": 2013,
+    "fips": "34021",
+    "opioid_prescribe_perc": 3.530857214,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 20840,
+    "Amount_x": 34,
+    "Amount_y": 7574670,
+    "death_perpop": 0.00427637
+  },
+  {
+    "year": 2013,
+    "fips": "34023",
+    "opioid_prescribe_perc": 3.870804059,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 30211,
+    "Amount_x": 25,
+    "Amount_y": 8106977,
+    "death_perpop": 0.004029771
+  },
+  {
+    "year": 2013,
+    "fips": "34025",
+    "opioid_prescribe_perc": 4.588832063,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 37432,
+    "Amount_x": 97,
+    "Amount_y": 32116721,
+    "death_perpop": 0.004051581
+  },
+  {
+    "year": 2013,
+    "fips": "34027",
+    "opioid_prescribe_perc": 4.075917933,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 15530,
+    "Amount_x": 37,
+    "Amount_y": 15088119,
+    "death_perpop": 0.003714867
+  },
+  {
+    "year": 2013,
+    "fips": "34029",
+    "opioid_prescribe_perc": 4.437765895,
+    "Unemployment Rate": 9.3,
+    "total_crimes": 24186,
+    "Amount_x": 49,
+    "Amount_y": 13718544,
+    "death_perpop": 0.006603844
+  },
+  {
+    "year": 2013,
+    "fips": "34031",
+    "opioid_prescribe_perc": 4.11716809,
+    "Unemployment Rate": 10,
+    "total_crimes": 21784,
+    "Amount_x": 7,
+    "Amount_y": 2006770,
+    "death_perpop": 0.003281068
+  },
+  {
+    "year": 2013,
+    "fips": "34035",
+    "opioid_prescribe_perc": 4.358834248,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 10646,
+    "Amount_x": 19,
+    "Amount_y": 6864700,
+    "death_perpop": 0.003661808
+  },
+  {
+    "year": 2013,
+    "fips": "34039",
+    "opioid_prescribe_perc": 3.1641238,
+    "Unemployment Rate": 8.4,
+    "total_crimes": 23864,
+    "Amount_x": 17,
+    "Amount_y": 7790750,
+    "death_perpop": 0.002987264
+  },
+  {
+    "year": 2013,
+    "fips": "35001",
+    "opioid_prescribe_perc": 6.684327644,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 46128,
+    "Amount_x": 2,
+    "Amount_y": 828600,
+    "death_perpop": 0.006459181
+  },
+  {
+    "year": 2013,
+    "fips": "36005",
+    "opioid_prescribe_perc": 2.319479506,
+    "Unemployment Rate": 11.8,
+    "total_crimes": 117516,
+    "Amount_x": 2,
+    "Amount_y": 714000,
+    "death_perpop": 0.004224433
+  },
+  {
+    "year": 2013,
+    "fips": "36007",
+    "opioid_prescribe_perc": 5.182371663,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 11456,
+    "Amount_x": 18,
+    "Amount_y": 2059189,
+    "death_perpop": 0.005553873
+  },
+  {
+    "year": 2013,
+    "fips": "36027",
+    "opioid_prescribe_perc": 3.978613301,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 10443,
+    "Amount_x": 52,
+    "Amount_y": 10631911,
+    "death_perpop": 0.006054042
+  },
+  {
+    "year": 2013,
+    "fips": "36029",
+    "opioid_prescribe_perc": 4.544834721,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 54884,
+    "Amount_x": 7,
+    "Amount_y": 760485,
+    "death_perpop": 0.002200254
+  },
+  {
+    "year": 2013,
+    "fips": "36047",
+    "opioid_prescribe_perc": 1.833450623,
+    "Unemployment Rate": 9.4,
+    "total_crimes": 213815,
+    "Amount_x": 42,
+    "Amount_y": 16735541,
+    "death_perpop": 0.002674776
+  },
+  {
+    "year": 2013,
+    "fips": "36055",
+    "opioid_prescribe_perc": 3.833730596,
+    "Unemployment Rate": 7,
+    "total_crimes": 39307,
+    "Amount_x": 64,
+    "Amount_y": 9950875,
+    "death_perpop": 0.002884602
+  },
+  {
+    "year": 2013,
+    "fips": "36059",
+    "opioid_prescribe_perc": 2.589416822,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 25390,
+    "Amount_x": 101,
+    "Amount_y": 35212150,
+    "death_perpop": 0.003372286
+  },
+  {
+    "year": 2013,
+    "fips": "36063",
+    "opioid_prescribe_perc": 3.979440605,
+    "Unemployment Rate": 8.4,
+    "total_crimes": 9700,
+    "Amount_x": 1,
+    "Amount_y": 179426,
+    "death_perpop": 0.00627545
+  },
+  {
+    "year": 2013,
+    "fips": "36067",
+    "opioid_prescribe_perc": 4.496068313,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 30353,
+    "Amount_x": 23,
+    "Amount_y": 3388079,
+    "death_perpop": 0.003855612
+  },
+  {
+    "year": 2013,
+    "fips": "36071",
+    "opioid_prescribe_perc": 4.149575,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 20690,
+    "Amount_x": 52,
+    "Amount_y": 9815504,
+    "death_perpop": 0.005820908
+  },
+  {
+    "year": 2013,
+    "fips": "36075",
+    "opioid_prescribe_perc": 3.946917093,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 6350,
+    "Amount_x": 13,
+    "Amount_y": 1361400,
+    "death_perpop": 0.00903862
+  },
+  {
+    "year": 2013,
+    "fips": "36081",
+    "opioid_prescribe_perc": 1.752090197,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 189771,
+    "Amount_x": 70,
+    "Amount_y": 25497192,
+    "death_perpop": 0.001593747
+  },
+  {
+    "year": 2013,
+    "fips": "36085",
+    "opioid_prescribe_perc": 3.025448813,
+    "Unemployment Rate": 9,
+    "total_crimes": 39719,
+    "Amount_x": 15,
+    "Amount_y": 5009183,
+    "death_perpop": 0.007344247
+  },
+  {
+    "year": 2013,
+    "fips": "36087",
+    "opioid_prescribe_perc": 2.640142089,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 8328,
+    "Amount_x": 6,
+    "Amount_y": 2204000,
+    "death_perpop": 0.00424853
+  },
+  {
+    "year": 2013,
+    "fips": "36103",
+    "opioid_prescribe_perc": 3.504822926,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 55313,
+    "Amount_x": 75,
+    "Amount_y": 28070666,
+    "death_perpop": 0.004129274
+  },
+  {
+    "year": 2013,
+    "fips": "36119",
+    "opioid_prescribe_perc": 2.486925103,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 31648,
+    "Amount_x": 40,
+    "Amount_y": 16008073,
+    "death_perpop": 0.002629355
+  },
+  {
+    "year": 2013,
+    "fips": "37021",
+    "opioid_prescribe_perc": 6.132823037,
+    "Unemployment Rate": 6,
+    "total_crimes": 11512,
+    "Amount_x": 2,
+    "Amount_y": 278200,
+    "death_perpop": 0.005589867
+  },
+  {
+    "year": 2013,
+    "fips": "37035",
+    "opioid_prescribe_perc": 7.643707323,
+    "Unemployment Rate": 8.5,
+    "total_crimes": 7565,
+    "Amount_x": 2,
+    "Amount_y": 742000,
+    "death_perpop": 0.007775092
+  },
+  {
+    "year": 2013,
+    "fips": "37063",
+    "opioid_prescribe_perc": 8.276687753,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 9750,
+    "Amount_x": 5,
+    "Amount_y": 863000,
+    "death_perpop": 0.004648818
+  },
+  {
+    "year": 2013,
+    "fips": "37071",
+    "opioid_prescribe_perc": 6.650790516,
+    "Unemployment Rate": 9,
+    "total_crimes": 17689,
+    "Amount_x": 2,
+    "Amount_y": 277000,
+    "death_perpop": 0.009452901
+  },
+  {
+    "year": 2013,
+    "fips": "37087",
+    "opioid_prescribe_perc": 7.077500457,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 3808,
+    "Amount_x": 1,
+    "Amount_y": 232000,
+    "death_perpop": 0.023765872
+  },
+  {
+    "year": 2013,
+    "fips": "37097",
+    "opioid_prescribe_perc": 6.888446153,
+    "Unemployment Rate": 8.4,
+    "total_crimes": 11817,
+    "Amount_x": 5,
+    "Amount_y": 1640700,
+    "death_perpop": 0.008604371
+  },
+  {
+    "year": 2013,
+    "fips": "37119",
+    "opioid_prescribe_perc": 6.234595127,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 40748,
+    "Amount_x": 9,
+    "Amount_y": 2293000,
+    "death_perpop": 0.002545498
+  },
+  {
+    "year": 2013,
+    "fips": "37133",
+    "opioid_prescribe_perc": 7.508260624,
+    "Unemployment Rate": 7,
+    "total_crimes": 9005,
+    "Amount_x": 2,
+    "Amount_y": 581280,
+    "death_perpop": 0.006547967
+  },
+  {
+    "year": 2013,
+    "fips": "37155",
+    "opioid_prescribe_perc": 7.469052169,
+    "Unemployment Rate": 11.9,
+    "total_crimes": 10081,
+    "Amount_x": 1,
+    "Amount_y": 98000,
+    "death_perpop": 0.009963394
+  },
+  {
+    "year": 2013,
+    "fips": "37183",
+    "opioid_prescribe_perc": 5.425337568,
+    "Unemployment Rate": 6,
+    "total_crimes": 83232,
+    "Amount_x": 26,
+    "Amount_y": 5048450,
+    "death_perpop": 0.001680406
+  },
+  {
+    "year": 2013,
+    "fips": "39007",
+    "opioid_prescribe_perc": 4.263116192,
+    "Unemployment Rate": 9.5,
+    "total_crimes": 2615,
+    "Amount_x": 3,
+    "Amount_y": 486750,
+    "death_perpop": 0.012285543
+  },
+  {
+    "year": 2013,
+    "fips": "39017",
+    "opioid_prescribe_perc": 6.830482029,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 28158,
+    "Amount_x": 267,
+    "Amount_y": 44239223,
+    "death_perpop": 0.00769046
+  },
+  {
+    "year": 2013,
+    "fips": "39023",
+    "opioid_prescribe_perc": 4.025186548,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 5341,
+    "Amount_x": 57,
+    "Amount_y": 8444524,
+    "death_perpop": 0.011515531
+  },
+  {
+    "year": 2013,
+    "fips": "39025",
+    "opioid_prescribe_perc": 6.524289068,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 6572,
+    "Amount_x": 200,
+    "Amount_y": 36471924,
+    "death_perpop": 0.013310897
+  },
+  {
+    "year": 2013,
+    "fips": "39029",
+    "opioid_prescribe_perc": 4.410980127,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 1808,
+    "Amount_x": 6,
+    "Amount_y": 435200,
+    "death_perpop": 0.01032796
+  },
+  {
+    "year": 2013,
+    "fips": "39035",
+    "opioid_prescribe_perc": 5.264083479,
+    "Unemployment Rate": 7,
+    "total_crimes": 38135,
+    "Amount_x": 86,
+    "Amount_y": 13696974,
+    "death_perpop": 0.005849289
+  },
+  {
+    "year": 2013,
+    "fips": "39041",
+    "opioid_prescribe_perc": 6.569811174,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 4509,
+    "Amount_x": 174,
+    "Amount_y": 38723637,
+    "death_perpop": 0.005523001
+  },
+  {
+    "year": 2013,
+    "fips": "39043",
+    "opioid_prescribe_perc": 5.091461471,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 865,
+    "Amount_x": 15,
+    "Amount_y": 2766950,
+    "death_perpop": 0.013089348
+  },
+  {
+    "year": 2013,
+    "fips": "39049",
+    "opioid_prescribe_perc": 6.084108269,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 34039,
+    "Amount_x": 621,
+    "Amount_y": 122895374,
+    "death_perpop": 0.006208275
+  },
+  {
+    "year": 2013,
+    "fips": "39057",
+    "opioid_prescribe_perc": 6.321377508,
+    "Unemployment Rate": 7,
+    "total_crimes": 4941,
+    "Amount_x": 52,
+    "Amount_y": 8162636,
+    "death_perpop": 0.009780728
+  },
+  {
+    "year": 2013,
+    "fips": "39061",
+    "opioid_prescribe_perc": 6.575688903,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 33336,
+    "Amount_x": 988,
+    "Amount_y": 177545386,
+    "death_perpop": 0.005813316
+  },
+  {
+    "year": 2013,
+    "fips": "39081",
+    "opioid_prescribe_perc": 4.693879666,
+    "Unemployment Rate": 10.9,
+    "total_crimes": 1571,
+    "Amount_x": 4,
+    "Amount_y": 473800,
+    "death_perpop": 0.016084458
+  },
+  {
+    "year": 2013,
+    "fips": "39085",
+    "opioid_prescribe_perc": 4.733846935,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 14660,
+    "Amount_x": 17,
+    "Amount_y": 3083298,
+    "death_perpop": 0.009147059
+  },
+  {
+    "year": 2013,
+    "fips": "39093",
+    "opioid_prescribe_perc": 6.483829447,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 11533,
+    "Amount_x": 103,
+    "Amount_y": 15933694,
+    "death_perpop": 0.008209554
+  },
+  {
+    "year": 2013,
+    "fips": "39095",
+    "opioid_prescribe_perc": 6.297026807,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 15658,
+    "Amount_x": 162,
+    "Amount_y": 30363369,
+    "death_perpop": 0.008751943
+  },
+  {
+    "year": 2013,
+    "fips": "39099",
+    "opioid_prescribe_perc": 6.224249679,
+    "Unemployment Rate": 8.5,
+    "total_crimes": 7846,
+    "Amount_x": 14,
+    "Amount_y": 1918600,
+    "death_perpop": 0.00850539
+  },
+  {
+    "year": 2013,
+    "fips": "39101",
+    "opioid_prescribe_perc": 4.620840475,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 3446,
+    "Amount_x": 6,
+    "Amount_y": 710600,
+    "death_perpop": 0.015097074
+  },
+  {
+    "year": 2013,
+    "fips": "39113",
+    "opioid_prescribe_perc": 6.120759791,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 29978,
+    "Amount_x": 181,
+    "Amount_y": 22868793,
+    "death_perpop": 0.006657265
+  },
+  {
+    "year": 2013,
+    "fips": "39135",
+    "opioid_prescribe_perc": 5.409031352,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 1119,
+    "Amount_x": 21,
+    "Amount_y": 1968672,
+    "death_perpop": 0.023874326
+  },
+  {
+    "year": 2013,
+    "fips": "39141",
+    "opioid_prescribe_perc": 6.508595011,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 2510,
+    "Amount_x": 17,
+    "Amount_y": 2407300,
+    "death_perpop": 0.012915058
+  },
+  {
+    "year": 2013,
+    "fips": "39145",
+    "opioid_prescribe_perc": 5.794352543,
+    "Unemployment Rate": 11.9,
+    "total_crimes": 1332,
+    "Amount_x": 9,
+    "Amount_y": 1506600,
+    "death_perpop": 0.016565363
+  },
+  {
+    "year": 2013,
+    "fips": "39151",
+    "opioid_prescribe_perc": 6.290622206,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 14886,
+    "Amount_x": 62,
+    "Amount_y": 10871771,
+    "death_perpop": 0.005157371
+  },
+  {
+    "year": 2013,
+    "fips": "39153",
+    "opioid_prescribe_perc": 6.72019573,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 28006,
+    "Amount_x": 67,
+    "Amount_y": 11626098,
+    "death_perpop": 0.004860425
+  },
+  {
+    "year": 2013,
+    "fips": "39155",
+    "opioid_prescribe_perc": 6.535484126,
+    "Unemployment Rate": 9.4,
+    "total_crimes": 5165,
+    "Amount_x": 23,
+    "Amount_y": 2957793,
+    "death_perpop": 0.007232192
+  },
+  {
+    "year": 2013,
+    "fips": "39165",
+    "opioid_prescribe_perc": 6.791471782,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 3066,
+    "Amount_x": 217,
+    "Amount_y": 44198080,
+    "death_perpop": 0.006751335
+  },
+  {
+    "year": 2013,
+    "fips": "40027",
+    "opioid_prescribe_perc": 7.705259348,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 15373,
+    "Amount_x": 91,
+    "Amount_y": 14839754,
+    "death_perpop": 0.007246704
+  },
+  {
+    "year": 2013,
+    "fips": "40051",
+    "opioid_prescribe_perc": 7.856207704,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 1466,
+    "Amount_x": 21,
+    "Amount_y": 3070652,
+    "death_perpop": 0.022591212
+  },
+  {
+    "year": 2013,
+    "fips": "40109",
+    "opioid_prescribe_perc": 8.113608422,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 38816,
+    "Amount_x": 212,
+    "Amount_y": 37243190,
+    "death_perpop": 0.004057801
+  },
+  {
+    "year": 2013,
+    "fips": "40137",
+    "opioid_prescribe_perc": 8.336906836,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 2470,
+    "Amount_x": 5,
+    "Amount_y": 616872,
+    "death_perpop": 0.03014806
+  },
+  {
+    "year": 2013,
+    "fips": "40143",
+    "opioid_prescribe_perc": 8.637871591,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 27865,
+    "Amount_x": 301,
+    "Amount_y": 51521931,
+    "death_perpop": 0.005240441
+  },
+  {
+    "year": 2013,
+    "fips": "40145",
+    "opioid_prescribe_perc": 8.83608559,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 2160,
+    "Amount_x": 44,
+    "Amount_y": 7629727,
+    "death_perpop": 0.013994402
+  },
+  {
+    "year": 2013,
+    "fips": "41029",
+    "opioid_prescribe_perc": 9.056889395,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 15094,
+    "Amount_x": 1,
+    "Amount_y": 65223,
+    "death_perpop": 0.008235955
+  },
+  {
+    "year": 2013,
+    "fips": "41051",
+    "opioid_prescribe_perc": 7.024011847,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 34430,
+    "Amount_x": 2,
+    "Amount_y": 566000,
+    "death_perpop": 0.003305868
+  },
+  {
+    "year": 2013,
+    "fips": "42003",
+    "opioid_prescribe_perc": 5.652300131,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 58265,
+    "Amount_x": 158,
+    "Amount_y": 30918297,
+    "death_perpop": 0.005856811
+  },
+  {
+    "year": 2013,
+    "fips": "42007",
+    "opioid_prescribe_perc": 4.843084918,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 6266,
+    "Amount_x": 5,
+    "Amount_y": 627410,
+    "death_perpop": 0.009202424
+  },
+  {
+    "year": 2013,
+    "fips": "42011",
+    "opioid_prescribe_perc": 4.538482857,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 18052,
+    "Amount_x": 28,
+    "Amount_y": 4683164,
+    "death_perpop": 0.004030721
+  },
+  {
+    "year": 2013,
+    "fips": "42013",
+    "opioid_prescribe_perc": 5.264121608,
+    "Unemployment Rate": 7,
+    "total_crimes": 5900,
+    "Amount_x": 50,
+    "Amount_y": 7886010,
+    "death_perpop": 0.009439825
+  },
+  {
+    "year": 2013,
+    "fips": "42017",
+    "opioid_prescribe_perc": 4.234681963,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 19598,
+    "Amount_x": 173,
+    "Amount_y": 36885574,
+    "death_perpop": 0.006113253
+  },
+  {
+    "year": 2013,
+    "fips": "42019",
+    "opioid_prescribe_perc": 4.555540904,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 5311,
+    "Amount_x": 54,
+    "Amount_y": 11729516,
+    "death_perpop": 0.006307329
+  },
+  {
+    "year": 2013,
+    "fips": "42021",
+    "opioid_prescribe_perc": 5.531473594,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 6492,
+    "Amount_x": 2,
+    "Amount_y": 477000,
+    "death_perpop": 0.017657362
+  },
+  {
+    "year": 2013,
+    "fips": "42029",
+    "opioid_prescribe_perc": 4.871313455,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 16443,
+    "Amount_x": 32,
+    "Amount_y": 7750500,
+    "death_perpop": 0.004935103
+  },
+  {
+    "year": 2013,
+    "fips": "42039",
+    "opioid_prescribe_perc": 7.512695775,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 2320,
+    "Amount_x": 70,
+    "Amount_y": 9378466,
+    "death_perpop": 0.011415786
+  },
+  {
+    "year": 2013,
+    "fips": "42041",
+    "opioid_prescribe_perc": 5.218005862,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 8102,
+    "Amount_x": 128,
+    "Amount_y": 26372808,
+    "death_perpop": 0.005238586
+  },
+  {
+    "year": 2013,
+    "fips": "42043",
+    "opioid_prescribe_perc": 4.802374977,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 16575,
+    "Amount_x": 71,
+    "Amount_y": 11833708,
+    "death_perpop": 0.007416609
+  },
+  {
+    "year": 2013,
+    "fips": "42045",
+    "opioid_prescribe_perc": 4.759473309,
+    "Unemployment Rate": 7,
+    "total_crimes": 25651,
+    "Amount_x": 20,
+    "Amount_y": 3857775,
+    "death_perpop": 0.004930808
+  },
+  {
+    "year": 2013,
+    "fips": "42049",
+    "opioid_prescribe_perc": 5.642145615,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 11197,
+    "Amount_x": 147,
+    "Amount_y": 20682353,
+    "death_perpop": 0.006295
+  },
+  {
+    "year": 2013,
+    "fips": "42051",
+    "opioid_prescribe_perc": 5.178979105,
+    "Unemployment Rate": 9.6,
+    "total_crimes": 6378,
+    "Amount_x": 4,
+    "Amount_y": 338000,
+    "death_perpop": 0.008845644
+  },
+  {
+    "year": 2013,
+    "fips": "42069",
+    "opioid_prescribe_perc": 5.327421407,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 8514,
+    "Amount_x": 9,
+    "Amount_y": 2066317,
+    "death_perpop": 0.009907822
+  },
+  {
+    "year": 2013,
+    "fips": "42071",
+    "opioid_prescribe_perc": 4.822961194,
+    "Unemployment Rate": 6,
+    "total_crimes": 18599,
+    "Amount_x": 90,
+    "Amount_y": 17170739,
+    "death_perpop": 0.004650518
+  },
+  {
+    "year": 2013,
+    "fips": "42077",
+    "opioid_prescribe_perc": 5.324389734,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 13411,
+    "Amount_x": 24,
+    "Amount_y": 4485187,
+    "death_perpop": 0.005770665
+  },
+  {
+    "year": 2013,
+    "fips": "42079",
+    "opioid_prescribe_perc": 4.507094891,
+    "Unemployment Rate": 9.4,
+    "total_crimes": 12074,
+    "Amount_x": 53,
+    "Amount_y": 8428059,
+    "death_perpop": 0.017444016
+  },
+  {
+    "year": 2013,
+    "fips": "42085",
+    "opioid_prescribe_perc": 6.023407022,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 4471,
+    "Amount_x": 109,
+    "Amount_y": 14022015,
+    "death_perpop": 0.013834248
+  },
+  {
+    "year": 2013,
+    "fips": "42089",
+    "opioid_prescribe_perc": 4.55087839,
+    "Unemployment Rate": 9.3,
+    "total_crimes": 8806,
+    "Amount_x": 19,
+    "Amount_y": 3128150,
+    "death_perpop": 0.006516665
+  },
+  {
+    "year": 2013,
+    "fips": "42091",
+    "opioid_prescribe_perc": 4.769093123,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 29538,
+    "Amount_x": 145,
+    "Amount_y": 29492265,
+    "death_perpop": 0.003478836
+  },
+  {
+    "year": 2013,
+    "fips": "42095",
+    "opioid_prescribe_perc": 5.221562264,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 11332,
+    "Amount_x": 28,
+    "Amount_y": 5048050,
+    "death_perpop": 0.008353744
+  },
+  {
+    "year": 2013,
+    "fips": "42101",
+    "opioid_prescribe_perc": 4.763220623,
+    "Unemployment Rate": 10.3,
+    "total_crimes": 120456,
+    "Amount_x": 71,
+    "Amount_y": 10867088,
+    "death_perpop": 0.007129286
+  },
+  {
+    "year": 2013,
+    "fips": "42107",
+    "opioid_prescribe_perc": 4.41492641,
+    "Unemployment Rate": 9.2,
+    "total_crimes": 6363,
+    "Amount_x": 29,
+    "Amount_y": 3296323,
+    "death_perpop": 0.013599614
+  },
+  {
+    "year": 2013,
+    "fips": "42111",
+    "opioid_prescribe_perc": 3.707484668,
+    "Unemployment Rate": 9.2,
+    "total_crimes": 2220,
+    "Amount_x": 1,
+    "Amount_y": 184000,
+    "death_perpop": 0.014293696
+  },
+  {
+    "year": 2013,
+    "fips": "42125",
+    "opioid_prescribe_perc": 4.490908537,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 8120,
+    "Amount_x": 50,
+    "Amount_y": 8638490,
+    "death_perpop": 0.006867386
+  },
+  {
+    "year": 2013,
+    "fips": "42127",
+    "opioid_prescribe_perc": 3.233116719,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 1543,
+    "Amount_x": 3,
+    "Amount_y": 616000,
+    "death_perpop": 0.021172168
+  },
+  {
+    "year": 2013,
+    "fips": "42129",
+    "opioid_prescribe_perc": 5.236073444,
+    "Unemployment Rate": 7,
+    "total_crimes": 10572,
+    "Amount_x": 31,
+    "Amount_y": 5353091,
+    "death_perpop": 0.00972312
+  },
+  {
+    "year": 2013,
+    "fips": "42133",
+    "opioid_prescribe_perc": 4.695116489,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 21950,
+    "Amount_x": 53,
+    "Amount_y": 8626345,
+    "death_perpop": 0.005481379
+  },
+  {
+    "year": 2013,
+    "fips": "44007",
+    "opioid_prescribe_perc": 4.132089185,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 22854,
+    "Amount_x": 4,
+    "Amount_y": 898240,
+    "death_perpop": 0.005022187
+  },
+  {
+    "year": 2013,
+    "fips": "45003",
+    "opioid_prescribe_perc": 7.730843617,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 6548,
+    "Amount_x": 3,
+    "Amount_y": 455535,
+    "death_perpop": 0.011055696
+  },
+  {
+    "year": 2013,
+    "fips": "45015",
+    "opioid_prescribe_perc": 6.312717833,
+    "Unemployment Rate": 7,
+    "total_crimes": 5994,
+    "Amount_x": 6,
+    "Amount_y": 819713,
+    "death_perpop": 0.007376924
+  },
+  {
+    "year": 2013,
+    "fips": "45019",
+    "opioid_prescribe_perc": 6.742748911,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 30940,
+    "Amount_x": 16,
+    "Amount_y": 3526587,
+    "death_perpop": 0.003560064
+  },
+  {
+    "year": 2013,
+    "fips": "45035",
+    "opioid_prescribe_perc": 7.922845587,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 4633,
+    "Amount_x": 3,
+    "Amount_y": 552046,
+    "death_perpop": 0.009123063
+  },
+  {
+    "year": 2013,
+    "fips": "45045",
+    "opioid_prescribe_perc": 7.308927488,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 26610,
+    "Amount_x": 5,
+    "Amount_y": 713650,
+    "death_perpop": 0.004954324
+  },
+  {
+    "year": 2013,
+    "fips": "45051",
+    "opioid_prescribe_perc": 7.548980127,
+    "Unemployment Rate": 8.6,
+    "total_crimes": 22424,
+    "Amount_x": 9,
+    "Amount_y": 1128014,
+    "death_perpop": 0.009919053
+  },
+  {
+    "year": 2013,
+    "fips": "45063",
+    "opioid_prescribe_perc": 5.205645656,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 9130,
+    "Amount_x": 1,
+    "Amount_y": 106043,
+    "death_perpop": 0.008875543
+  },
+  {
+    "year": 2013,
+    "fips": "45073",
+    "opioid_prescribe_perc": 9.317221816,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 3601,
+    "Amount_x": 1,
+    "Amount_y": 160000,
+    "death_perpop": 0.020099964
+  },
+  {
+    "year": 2013,
+    "fips": "45079",
+    "opioid_prescribe_perc": 5.289534628,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 16038,
+    "Amount_x": 2,
+    "Amount_y": 366000,
+    "death_perpop": 0.005840083
+  },
+  {
+    "year": 2013,
+    "fips": "45091",
+    "opioid_prescribe_perc": 5.344266494,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 10661,
+    "Amount_x": 4,
+    "Amount_y": 1088650,
+    "death_perpop": 0.005753617
+  },
+  {
+    "year": 2013,
+    "fips": "47009",
+    "opioid_prescribe_perc": 7.792403359,
+    "Unemployment Rate": 7,
+    "total_crimes": 7477,
+    "Amount_x": 3,
+    "Amount_y": 636920,
+    "death_perpop": 0.012482183
+  },
+  {
+    "year": 2013,
+    "fips": "47037",
+    "opioid_prescribe_perc": 6.898702724,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 88257,
+    "Amount_x": 46,
+    "Amount_y": 9229224,
+    "death_perpop": 0.005429627
+  },
+  {
+    "year": 2013,
+    "fips": "47059",
+    "opioid_prescribe_perc": 5.015141051,
+    "Unemployment Rate": 9.7,
+    "total_crimes": 2716,
+    "Amount_x": 1,
+    "Amount_y": 196000,
+    "death_perpop": 0.015983958
+  },
+  {
+    "year": 2013,
+    "fips": "47063",
+    "opioid_prescribe_perc": 6.591184137,
+    "Unemployment Rate": 9.1,
+    "total_crimes": 5703,
+    "Amount_x": 1,
+    "Amount_y": 71500,
+    "death_perpop": 0.021515316
+  },
+  {
+    "year": 2013,
+    "fips": "47065",
+    "opioid_prescribe_perc": 8.152390566,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 22818,
+    "Amount_x": 1,
+    "Amount_y": 190000,
+    "death_perpop": 0.008681937
+  },
+  {
+    "year": 2013,
+    "fips": "47093",
+    "opioid_prescribe_perc": 8.008079064,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 28792,
+    "Amount_x": 13,
+    "Amount_y": 2320600,
+    "death_perpop": 0.006080368
+  },
+  {
+    "year": 2013,
+    "fips": "47119",
+    "opioid_prescribe_perc": 7.264056764,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 6854,
+    "Amount_x": 1,
+    "Amount_y": 67500,
+    "death_perpop": 0.01341627
+  },
+  {
+    "year": 2013,
+    "fips": "47125",
+    "opioid_prescribe_perc": 8.415976055,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 11517,
+    "Amount_x": 11,
+    "Amount_y": 1712430,
+    "death_perpop": 0.006685893
+  },
+  {
+    "year": 2013,
+    "fips": "47149",
+    "opioid_prescribe_perc": 4.954506049,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 19661,
+    "Amount_x": 16,
+    "Amount_y": 2945330,
+    "death_perpop": 0.005829757
+  },
+  {
+    "year": 2013,
+    "fips": "47157",
+    "opioid_prescribe_perc": 5.155279644,
+    "Unemployment Rate": 8.8,
+    "total_crimes": 78127,
+    "Amount_x": 30,
+    "Amount_y": 7367573,
+    "death_perpop": 0.004375876
+  },
+  {
+    "year": 2013,
+    "fips": "47163",
+    "opioid_prescribe_perc": 7.085983056,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 11844,
+    "Amount_x": 21,
+    "Amount_y": 3347100,
+    "death_perpop": 0.010204993
+  },
+  {
+    "year": 2013,
+    "fips": "47165",
+    "opioid_prescribe_perc": 11.57362676,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 13395,
+    "Amount_x": 47,
+    "Amount_y": 10872795,
+    "death_perpop": 0.007223563
+  },
+  {
+    "year": 2013,
+    "fips": "47189",
+    "opioid_prescribe_perc": 8.378962666,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 6789,
+    "Amount_x": 20,
+    "Amount_y": 4562625,
+    "death_perpop": 0.008406116
+  },
+  {
+    "year": 2013,
+    "fips": "48029",
+    "opioid_prescribe_perc": 6.303977563,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 97196,
+    "Amount_x": 5,
+    "Amount_y": 1027096,
+    "death_perpop": 0.00217779
+  },
+  {
+    "year": 2013,
+    "fips": "48085",
+    "opioid_prescribe_perc": 6.385838387,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 23058,
+    "Amount_x": 13,
+    "Amount_y": 3107486,
+    "death_perpop": 0.002066754
+  },
+  {
+    "year": 2013,
+    "fips": "48113",
+    "opioid_prescribe_perc": 6.553847991,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 125788,
+    "Amount_x": 4,
+    "Amount_y": 1240500,
+    "death_perpop": 0.001606324
+  },
+  {
+    "year": 2013,
+    "fips": "48121",
+    "opioid_prescribe_perc": 5.603589781,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 21057,
+    "Amount_x": 4,
+    "Amount_y": 917750,
+    "death_perpop": 0.002356365
+  },
+  {
+    "year": 2013,
+    "fips": "48167",
+    "opioid_prescribe_perc": 7.091089041,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 28288,
+    "Amount_x": 3,
+    "Amount_y": 540200,
+    "death_perpop": 0.005075145
+  },
+  {
+    "year": 2013,
+    "fips": "48201",
+    "opioid_prescribe_perc": 5.716373626,
+    "Unemployment Rate": 6,
+    "total_crimes": 223879,
+    "Amount_x": 23,
+    "Amount_y": 5299698,
+    "death_perpop": 0.001690507
+  },
+  {
+    "year": 2013,
+    "fips": "48339",
+    "opioid_prescribe_perc": 5.930770494,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 20078,
+    "Amount_x": 7,
+    "Amount_y": 1559355,
+    "death_perpop": 0.003092484
+  },
+  {
+    "year": 2013,
+    "fips": "48355",
+    "opioid_prescribe_perc": 6.763529129,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 28278,
+    "Amount_x": 2,
+    "Amount_y": 287520,
+    "death_perpop": 0.005656363
+  },
+  {
+    "year": 2013,
+    "fips": "48439",
+    "opioid_prescribe_perc": 6.734773389,
+    "Unemployment Rate": 6,
+    "total_crimes": 94941,
+    "Amount_x": 6,
+    "Amount_y": 1385537,
+    "death_perpop": 0.001888144
+  },
+  {
+    "year": 2013,
+    "fips": "48453",
+    "opioid_prescribe_perc": 6.4899953,
+    "Unemployment Rate": 5,
+    "total_crimes": 75191,
+    "Amount_x": 3,
+    "Amount_y": 874895,
+    "death_perpop": 0.002803462
+  },
+  {
+    "year": 2013,
+    "fips": "48491",
+    "opioid_prescribe_perc": 6.852298271,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 14996,
+    "Amount_x": 1,
+    "Amount_y": 292600,
+    "death_perpop": 0.004602921
+  },
+  {
+    "year": 2013,
+    "fips": "49011",
+    "opioid_prescribe_perc": 7.602325865,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 13125,
+    "Amount_x": 3,
+    "Amount_y": 732250,
+    "death_perpop": 0.005778809
+  },
+  {
+    "year": 2013,
+    "fips": "51041",
+    "opioid_prescribe_perc": 5.096728503,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 19955,
+    "Amount_x": 2,
+    "Amount_y": 461500,
+    "death_perpop": 0.00401413
+  },
+  {
+    "year": 2013,
+    "fips": "51059",
+    "opioid_prescribe_perc": 3.967094329,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 34694,
+    "Amount_x": 19,
+    "Amount_y": 6325135,
+    "death_perpop": 0.001460156
+  },
+  {
+    "year": 2013,
+    "fips": "51087",
+    "opioid_prescribe_perc": 5.11587644,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 15026,
+    "Amount_x": 2,
+    "Amount_y": 607050,
+    "death_perpop": 0.004445404
+  },
+  {
+    "year": 2013,
+    "fips": "53033",
+    "opioid_prescribe_perc": 6.340025421,
+    "Unemployment Rate": 5,
+    "total_crimes": 89743,
+    "Amount_x": 4,
+    "Amount_y": 1248050,
+    "death_perpop": 0.002400162
+  },
+  {
+    "year": 2013,
+    "fips": "53035",
+    "opioid_prescribe_perc": 8.022107937,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 9299,
+    "Amount_x": 1,
+    "Amount_y": 203200,
+    "death_perpop": 0.004313878
+  },
+  {
+    "year": 2013,
+    "fips": "53053",
+    "opioid_prescribe_perc": 6.858295885,
+    "Unemployment Rate": 8.4,
+    "total_crimes": 35157,
+    "Amount_x": 1,
+    "Amount_y": 216000,
+    "death_perpop": 0.002974427
+  },
+  {
+    "year": 2013,
+    "fips": "53061",
+    "opioid_prescribe_perc": 6.709497223,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 24190,
+    "Amount_x": 2,
+    "Amount_y": 584167,
+    "death_perpop": 0.005242385
+  },
+  {
+    "year": 2013,
+    "fips": "53063",
+    "opioid_prescribe_perc": 7.809853028,
+    "Unemployment Rate": 8.2,
+    "total_crimes": 18276,
+    "Amount_x": 2,
+    "Amount_y": 472875,
+    "death_perpop": 0.005640395
+  },
+  {
+    "year": 2013,
+    "fips": "54003",
+    "opioid_prescribe_perc": 6.873035894,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 6453,
+    "Amount_x": 3,
+    "Amount_y": 485644,
+    "death_perpop": 0.01232516
+  },
+  {
+    "year": 2013,
+    "fips": "54011",
+    "opioid_prescribe_perc": 6.327541649,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 4608,
+    "Amount_x": 5,
+    "Amount_y": 612169,
+    "death_perpop": 0.013405655
+  },
+  {
+    "year": 2013,
+    "fips": "54039",
+    "opioid_prescribe_perc": 8.37193696,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 16756,
+    "Amount_x": 7,
+    "Amount_y": 896550,
+    "death_perpop": 0.016026725
+  },
+  {
+    "year": 2013,
+    "fips": "54081",
+    "opioid_prescribe_perc": 5.911955086,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 4570,
+    "Amount_x": 7,
+    "Amount_y": 1003400,
+    "death_perpop": 0.043342909
+  },
+  {
+    "year": 2013,
+    "fips": "54107",
+    "opioid_prescribe_perc": 7.351838091,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 1463,
+    "Amount_x": 5,
+    "Amount_y": 740200,
+    "death_perpop": 0.01499406
+  },
+  {
+    "year": 2013,
+    "fips": "54109",
+    "opioid_prescribe_perc": 8.636561849,
+    "Unemployment Rate": 9.2,
+    "total_crimes": 293,
+    "Amount_x": 1,
+    "Amount_y": 70000,
+    "death_perpop": 0.075910569
+  },
+  {
+    "year": 2013,
+    "fips": "55009",
+    "opioid_prescribe_perc": 5.543263155,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 15906,
+    "Amount_x": 23,
+    "Amount_y": 2887720,
+    "death_perpop": 0.00454488
+  },
+  {
+    "year": 2013,
+    "fips": "55025",
+    "opioid_prescribe_perc": 5.589891703,
+    "Unemployment Rate": 4.7,
+    "total_crimes": 31249,
+    "Amount_x": 24,
+    "Amount_y": 5015554,
+    "death_perpop": 0.005262917
+  },
+  {
+    "year": 2013,
+    "fips": "55059",
+    "opioid_prescribe_perc": 5.968588183,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 12638,
+    "Amount_x": 1,
+    "Amount_y": 186200,
+    "death_perpop": 0.01027177
+  },
+  {
+    "year": 2013,
+    "fips": "55079",
+    "opioid_prescribe_perc": 5.779018101,
+    "Unemployment Rate": 8.4,
+    "total_crimes": 92516,
+    "Amount_x": 79,
+    "Amount_y": 12806623,
+    "death_perpop": 0.004711031
+  },
+  {
+    "year": 2013,
+    "fips": "55101",
+    "opioid_prescribe_perc": 5.035122637,
+    "Unemployment Rate": 8.3,
+    "total_crimes": 12956,
+    "Amount_x": 6,
+    "Amount_y": 1110450,
+    "death_perpop": 0.006160259
+  },
+  {
+    "year": 2013,
+    "fips": "55105",
+    "opioid_prescribe_perc": 6.525464768,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 15876,
+    "Amount_x": 98,
+    "Amount_y": 13266190,
+    "death_perpop": 0.008415514
+  },
+  {
+    "year": 2013,
+    "fips": "55133",
+    "opioid_prescribe_perc": 6.061223925,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 17173,
+    "Amount_x": 65,
+    "Amount_y": 14291422,
+    "death_perpop": 0.005289427
+  },
+  {
+    "year": 2013,
+    "fips": "55139",
+    "opioid_prescribe_perc": 5.89045738,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 14372,
+    "Amount_x": 2,
+    "Amount_y": 231500,
+    "death_perpop": 0.006516819
+  },
+  {
+    "year": 2013,
+    "fips": "56021",
+    "opioid_prescribe_perc": 6.702532841,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 6550,
+    "Amount_x": 6,
+    "Amount_y": 1222603,
+    "death_perpop": 0.011642306
+  },
+  {
+    "year": 2014,
+    "fips": "1073",
+    "opioid_prescribe_perc": 7.823954731,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 9412,
+    "Amount_x": 2,
+    "Amount_y": 564050,
+    "death_perpop": 0.003925658
+  },
+  {
+    "year": 2014,
+    "fips": "1089",
+    "opioid_prescribe_perc": 7.211612867,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 1696,
+    "Amount_x": 4,
+    "Amount_y": 1186175,
+    "death_perpop": 0.004900661
+  },
+  {
+    "year": 2014,
+    "fips": "1117",
+    "opioid_prescribe_perc": 7.846508441,
+    "Unemployment Rate": 4.5,
+    "total_crimes": 2613,
+    "Amount_x": 2,
+    "Amount_y": 314000,
+    "death_perpop": 0.011754334
+  },
+  {
+    "year": 2014,
+    "fips": "1125",
+    "opioid_prescribe_perc": 7.139786471,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 3885,
+    "Amount_x": 3,
+    "Amount_y": 582120,
+    "death_perpop": 0.013444809
+  },
+  {
+    "year": 2014,
+    "fips": "4013",
+    "opioid_prescribe_perc": 7.030093812,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 188025,
+    "Amount_x": 79,
+    "Amount_y": 19081535,
+    "death_perpop": 0.001705709
+  },
+  {
+    "year": 2014,
+    "fips": "4015",
+    "opioid_prescribe_perc": 8.370621861,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 16667,
+    "Amount_x": 1,
+    "Amount_y": 417000,
+    "death_perpop": 0.012116436
+  },
+  {
+    "year": 2014,
+    "fips": "4019",
+    "opioid_prescribe_perc": 6.814548648,
+    "Unemployment Rate": 6,
+    "total_crimes": 60341,
+    "Amount_x": 6,
+    "Amount_y": 1730957,
+    "death_perpop": 0.003754605
+  },
+  {
+    "year": 2014,
+    "fips": "4021",
+    "opioid_prescribe_perc": 5.952488328,
+    "Unemployment Rate": 7,
+    "total_crimes": 14976,
+    "Amount_x": 4,
+    "Amount_y": 960924,
+    "death_perpop": 0.003544369
+  },
+  {
+    "year": 2014,
+    "fips": "4025",
+    "opioid_prescribe_perc": 6.27757258,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 11877,
+    "Amount_x": 3,
+    "Amount_y": 612500,
+    "death_perpop": 0.008211974
+  },
+  {
+    "year": 2014,
+    "fips": "5007",
+    "opioid_prescribe_perc": 6.580274493,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 14081,
+    "Amount_x": 14,
+    "Amount_y": 3445160,
+    "death_perpop": 0.004214128
+  },
+  {
+    "year": 2014,
+    "fips": "5119",
+    "opioid_prescribe_perc": 7.180009502,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 32940,
+    "Amount_x": 1,
+    "Amount_y": 106000,
+    "death_perpop": 0.004940998
+  },
+  {
+    "year": 2014,
+    "fips": "6001",
+    "opioid_prescribe_perc": 6.597115748,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 62305,
+    "Amount_x": 103,
+    "Amount_y": 49301874,
+    "death_perpop": 0.002163966
+  },
+  {
+    "year": 2014,
+    "fips": "6007",
+    "opioid_prescribe_perc": 8.518410673,
+    "Unemployment Rate": 8.6,
+    "total_crimes": 14560,
+    "Amount_x": 2,
+    "Amount_y": 521000,
+    "death_perpop": 0.012832635
+  },
+  {
+    "year": 2014,
+    "fips": "6019",
+    "opioid_prescribe_perc": 6.691827987,
+    "Unemployment Rate": 11.6,
+    "total_crimes": 65427,
+    "Amount_x": 4,
+    "Amount_y": 944900,
+    "death_perpop": 0.00253331
+  },
+  {
+    "year": 2014,
+    "fips": "6029",
+    "opioid_prescribe_perc": 6.423311769,
+    "Unemployment Rate": 10.4,
+    "total_crimes": 65476,
+    "Amount_x": 14,
+    "Amount_y": 3422056,
+    "death_perpop": 0.00322581
+  },
+  {
+    "year": 2014,
+    "fips": "6041",
+    "opioid_prescribe_perc": 5.634836272,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 9435,
+    "Amount_x": 10,
+    "Amount_y": 4626200,
+    "death_perpop": 0.00580574
+  },
+  {
+    "year": 2014,
+    "fips": "6053",
+    "opioid_prescribe_perc": 5.769580697,
+    "Unemployment Rate": 9,
+    "total_crimes": 16973,
+    "Amount_x": 4,
+    "Amount_y": 1101000,
+    "death_perpop": 0.004430701
+  },
+  {
+    "year": 2014,
+    "fips": "6057",
+    "opioid_prescribe_perc": 7.869761726,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 4828,
+    "Amount_x": 5,
+    "Amount_y": 1328950,
+    "death_perpop": 0.016293279
+  },
+  {
+    "year": 2014,
+    "fips": "6059",
+    "opioid_prescribe_perc": 4.38530455,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 111527,
+    "Amount_x": 77,
+    "Amount_y": 34631695,
+    "death_perpop": 0.00207105
+  },
+  {
+    "year": 2014,
+    "fips": "6061",
+    "opioid_prescribe_perc": 7.179744019,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 13302,
+    "Amount_x": 8,
+    "Amount_y": 2741850,
+    "death_perpop": 0.004628256
+  },
+  {
+    "year": 2014,
+    "fips": "6065",
+    "opioid_prescribe_perc": 6.38043173,
+    "Unemployment Rate": 8.2,
+    "total_crimes": 85277,
+    "Amount_x": 40,
+    "Amount_y": 10531400,
+    "death_perpop": 0.002195559
+  },
+  {
+    "year": 2014,
+    "fips": "6067",
+    "opioid_prescribe_perc": 6.722967486,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 63597,
+    "Amount_x": 32,
+    "Amount_y": 8690244,
+    "death_perpop": 0.002085996
+  },
+  {
+    "year": 2014,
+    "fips": "6095",
+    "opioid_prescribe_perc": 6.737625061,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 20218,
+    "Amount_x": 8,
+    "Amount_y": 2450400,
+    "death_perpop": 0.003609644
+  },
+  {
+    "year": 2014,
+    "fips": "6097",
+    "opioid_prescribe_perc": 7.319595315,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 24690,
+    "Amount_x": 8,
+    "Amount_y": 3033200,
+    "death_perpop": 0.002525125
+  },
+  {
+    "year": 2014,
+    "fips": "6099",
+    "opioid_prescribe_perc": 7.98329623,
+    "Unemployment Rate": 11.2,
+    "total_crimes": 30707,
+    "Amount_x": 5,
+    "Amount_y": 933500,
+    "death_perpop": 0.003805964
+  },
+  {
+    "year": 2014,
+    "fips": "6107",
+    "opioid_prescribe_perc": 6.546995161,
+    "Unemployment Rate": 13.1,
+    "total_crimes": 36879,
+    "Amount_x": 1,
+    "Amount_y": 358800,
+    "death_perpop": 0.002312047
+  },
+  {
+    "year": 2014,
+    "fips": "6111",
+    "opioid_prescribe_perc": 5.18431434,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 46828,
+    "Amount_x": 29,
+    "Amount_y": 11032890,
+    "death_perpop": 0.003573045
+  },
+  {
+    "year": 2014,
+    "fips": "6113",
+    "opioid_prescribe_perc": 6.522406314,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 11658,
+    "Amount_x": 5,
+    "Amount_y": 1442950,
+    "death_perpop": 0.004887753
+  },
+  {
+    "year": 2014,
+    "fips": "8001",
+    "opioid_prescribe_perc": 7.351965264,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 40692,
+    "Amount_x": 53,
+    "Amount_y": 10852512,
+    "death_perpop": 0.005381581
+  },
+  {
+    "year": 2014,
+    "fips": "8005",
+    "opioid_prescribe_perc": 7.735416761,
+    "Unemployment Rate": 4.9,
+    "total_crimes": 35486,
+    "Amount_x": 65,
+    "Amount_y": 14057504,
+    "death_perpop": 0.003294513
+  },
+  {
+    "year": 2014,
+    "fips": "8013",
+    "opioid_prescribe_perc": 6.663493772,
+    "Unemployment Rate": 4.1,
+    "total_crimes": 14950,
+    "Amount_x": 42,
+    "Amount_y": 11998153,
+    "death_perpop": 0.006047451
+  },
+  {
+    "year": 2014,
+    "fips": "8031",
+    "opioid_prescribe_perc": 7.005569055,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 38397,
+    "Amount_x": 81,
+    "Amount_y": 18719737,
+    "death_perpop": 0.003592535
+  },
+  {
+    "year": 2014,
+    "fips": "8035",
+    "opioid_prescribe_perc": 5.888139806,
+    "Unemployment Rate": 4,
+    "total_crimes": 5669,
+    "Amount_x": 54,
+    "Amount_y": 14987718,
+    "death_perpop": 0.004412298
+  },
+  {
+    "year": 2014,
+    "fips": "8059",
+    "opioid_prescribe_perc": 6.997533478,
+    "Unemployment Rate": 4.5,
+    "total_crimes": 27397,
+    "Amount_x": 147,
+    "Amount_y": 41010398,
+    "death_perpop": 0.003292268
+  },
+  {
+    "year": 2014,
+    "fips": "8069",
+    "opioid_prescribe_perc": 7.090227456,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 13455,
+    "Amount_x": 54,
+    "Amount_y": 13628437,
+    "death_perpop": 0.004826133
+  },
+  {
+    "year": 2014,
+    "fips": "8077",
+    "opioid_prescribe_perc": 7.225610906,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 10860,
+    "Amount_x": 4,
+    "Amount_y": 825500,
+    "death_perpop": 0.008810334
+  },
+  {
+    "year": 2014,
+    "fips": "8101",
+    "opioid_prescribe_perc": 7.914155431,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 5290,
+    "Amount_x": 16,
+    "Amount_y": 2457287,
+    "death_perpop": 0.013936117
+  },
+  {
+    "year": 2014,
+    "fips": "8123",
+    "opioid_prescribe_perc": 7.069533825,
+    "Unemployment Rate": 4.5,
+    "total_crimes": 12096,
+    "Amount_x": 57,
+    "Amount_y": 11294579,
+    "death_perpop": 0.003706655
+  },
+  {
+    "year": 2014,
+    "fips": "9001",
+    "opioid_prescribe_perc": 4.197025411,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 20542,
+    "Amount_x": 36,
+    "Amount_y": 11600987,
+    "death_perpop": 0.003026314
+  },
+  {
+    "year": 2014,
+    "fips": "9003",
+    "opioid_prescribe_perc": 4.217040319,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 40070,
+    "Amount_x": 17,
+    "Amount_y": 3818850,
+    "death_perpop": 0.005486725
+  },
+  {
+    "year": 2014,
+    "fips": "9005",
+    "opioid_prescribe_perc": 4.615358712,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 3237,
+    "Amount_x": 32,
+    "Amount_y": 6037170,
+    "death_perpop": 0.008425884
+  },
+  {
+    "year": 2014,
+    "fips": "9007",
+    "opioid_prescribe_perc": 5.356573475,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 3680,
+    "Amount_x": 1,
+    "Amount_y": 287200,
+    "death_perpop": 0.008456047
+  },
+  {
+    "year": 2014,
+    "fips": "10001",
+    "opioid_prescribe_perc": 8.959520065,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 9624,
+    "Amount_x": 2,
+    "Amount_y": 278855,
+    "death_perpop": 0.007378288
+  },
+  {
+    "year": 2014,
+    "fips": "10005",
+    "opioid_prescribe_perc": 5.237407903,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 12040,
+    "Amount_x": 4,
+    "Amount_y": 589394,
+    "death_perpop": 0.007500641
+  },
+  {
+    "year": 2014,
+    "fips": "12005",
+    "opioid_prescribe_perc": 8.037967532,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 444500,
+    "death_perpop": 0.006286181
+  },
+  {
+    "year": 2014,
+    "fips": "12009",
+    "opioid_prescribe_perc": 5.918015624,
+    "Unemployment Rate": 7,
+    "total_crimes": 0,
+    "Amount_x": 5,
+    "Amount_y": 993400,
+    "death_perpop": 0.005954726
+  },
+  {
+    "year": 2014,
+    "fips": "12011",
+    "opioid_prescribe_perc": 5.109883809,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 0,
+    "Amount_x": 10,
+    "Amount_y": 2649992,
+    "death_perpop": 0.002158965
+  },
+  {
+    "year": 2014,
+    "fips": "12015",
+    "opioid_prescribe_perc": 8.859799484,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 581300,
+    "death_perpop": 0.007284382
+  },
+  {
+    "year": 2014,
+    "fips": "12017",
+    "opioid_prescribe_perc": 7.148558438,
+    "Unemployment Rate": 8.5,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 65000,
+    "death_perpop": 0.012206418
+  },
+  {
+    "year": 2014,
+    "fips": "12021",
+    "opioid_prescribe_perc": 5.46742921,
+    "Unemployment Rate": 6,
+    "total_crimes": 0,
+    "Amount_x": 11,
+    "Amount_y": 2880275,
+    "death_perpop": 0.004318272
+  },
+  {
+    "year": 2014,
+    "fips": "12031",
+    "opioid_prescribe_perc": 7.524919217,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 502800,
+    "death_perpop": 0.003889411
+  },
+  {
+    "year": 2014,
+    "fips": "12033",
+    "opioid_prescribe_perc": 8.073549592,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 400000,
+    "death_perpop": 0.00555888
+  },
+  {
+    "year": 2014,
+    "fips": "12053",
+    "opioid_prescribe_perc": 8.195072417,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 290285,
+    "death_perpop": 0.01074862
+  },
+  {
+    "year": 2014,
+    "fips": "12055",
+    "opioid_prescribe_perc": 4.705619602,
+    "Unemployment Rate": 8.4,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 211600,
+    "death_perpop": 0.011268644
+  },
+  {
+    "year": 2014,
+    "fips": "12057",
+    "opioid_prescribe_perc": 6.949740252,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 0,
+    "Amount_x": 8,
+    "Amount_y": 1487721,
+    "death_perpop": 0.003785206
+  },
+  {
+    "year": 2014,
+    "fips": "12071",
+    "opioid_prescribe_perc": 6.436650418,
+    "Unemployment Rate": 6,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 1548932,
+    "death_perpop": 0.003302502
+  },
+  {
+    "year": 2014,
+    "fips": "12081",
+    "opioid_prescribe_perc": 6.60730232,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 0,
+    "Amount_x": 9,
+    "Amount_y": 2257600,
+    "death_perpop": 0.00587862
+  },
+  {
+    "year": 2014,
+    "fips": "12083",
+    "opioid_prescribe_perc": 5.501940096,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 832000,
+    "death_perpop": 0.007212826
+  },
+  {
+    "year": 2014,
+    "fips": "12095",
+    "opioid_prescribe_perc": 5.269028467,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 735000,
+    "death_perpop": 0.002647949
+  },
+  {
+    "year": 2014,
+    "fips": "12097",
+    "opioid_prescribe_perc": 4.907192078,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 576000,
+    "death_perpop": 0.004690054
+  },
+  {
+    "year": 2014,
+    "fips": "12101",
+    "opioid_prescribe_perc": 6.729080652,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 208455,
+    "death_perpop": 0.006008687
+  },
+  {
+    "year": 2014,
+    "fips": "12103",
+    "opioid_prescribe_perc": 5.846962821,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 0,
+    "Amount_x": 6,
+    "Amount_y": 1752118,
+    "death_perpop": 0.004138047
+  },
+  {
+    "year": 2014,
+    "fips": "12105",
+    "opioid_prescribe_perc": 5.328773945,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 408809,
+    "death_perpop": 0.003745264
+  },
+  {
+    "year": 2014,
+    "fips": "12115",
+    "opioid_prescribe_perc": 5.783310566,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 0,
+    "Amount_x": 4,
+    "Amount_y": 943752,
+    "death_perpop": 0.005049391
+  },
+  {
+    "year": 2014,
+    "fips": "12117",
+    "opioid_prescribe_perc": 4.420337486,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 0,
+    "Amount_x": 7,
+    "Amount_y": 1782400,
+    "death_perpop": 0.005458202
+  },
+  {
+    "year": 2014,
+    "fips": "12127",
+    "opioid_prescribe_perc": 6.816902472,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 577200,
+    "death_perpop": 0.007454739
+  },
+  {
+    "year": 2014,
+    "fips": "13051",
+    "opioid_prescribe_perc": 6.329797385,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 12904,
+    "Amount_x": 1,
+    "Amount_y": 284000,
+    "death_perpop": 0.005387273
+  },
+  {
+    "year": 2014,
+    "fips": "13057",
+    "opioid_prescribe_perc": 10.97026057,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 7288,
+    "Amount_x": 4,
+    "Amount_y": 1226045,
+    "death_perpop": 0.005775057
+  },
+  {
+    "year": 2014,
+    "fips": "13067",
+    "opioid_prescribe_perc": 6.633946713,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 23901,
+    "Amount_x": 7,
+    "Amount_y": 1854800,
+    "death_perpop": 0.006553354
+  },
+  {
+    "year": 2014,
+    "fips": "13117",
+    "opioid_prescribe_perc": 4.89334573,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 4401,
+    "Amount_x": 7,
+    "Amount_y": 1918800,
+    "death_perpop": 0.006141092
+  },
+  {
+    "year": 2014,
+    "fips": "13121",
+    "opioid_prescribe_perc": 6.007200101,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 64445,
+    "Amount_x": 11,
+    "Amount_y": 3098775,
+    "death_perpop": 0.00245677
+  },
+  {
+    "year": 2014,
+    "fips": "13135",
+    "opioid_prescribe_perc": 5.806617015,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 16326,
+    "Amount_x": 6,
+    "Amount_y": 1138050,
+    "death_perpop": 0.002269278
+  },
+  {
+    "year": 2014,
+    "fips": "13245",
+    "opioid_prescribe_perc": 7.387021557,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 13035,
+    "Amount_x": 1,
+    "Amount_y": 92000,
+    "death_perpop": 0.006435548
+  },
+  {
+    "year": 2014,
+    "fips": "13297",
+    "opioid_prescribe_perc": 4.494382022,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 5869,
+    "Amount_x": 1,
+    "Amount_y": 134000,
+    "death_perpop": 0.011661264
+  },
+  {
+    "year": 2014,
+    "fips": "15003",
+    "opioid_prescribe_perc": 3.051174337,
+    "Unemployment Rate": 4.1,
+    "total_crimes": 37908,
+    "Amount_x": 8,
+    "Amount_y": 3694238,
+    "death_perpop": 0.00222436
+  },
+  {
+    "year": 2014,
+    "fips": "16001",
+    "opioid_prescribe_perc": 7.934738116,
+    "Unemployment Rate": 4.2,
+    "total_crimes": 18483,
+    "Amount_x": 1,
+    "Amount_y": 118000,
+    "death_perpop": 0.004962414
+  },
+  {
+    "year": 2014,
+    "fips": "17031",
+    "opioid_prescribe_perc": 4.549950958,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 0,
+    "Amount_x": 29,
+    "Amount_y": 7679005,
+    "death_perpop": 0.002032905
+  },
+  {
+    "year": 2014,
+    "fips": "17089",
+    "opioid_prescribe_perc": 4.488426331,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 0,
+    "Amount_x": 5,
+    "Amount_y": 1149130,
+    "death_perpop": 0.002769062
+  },
+  {
+    "year": 2014,
+    "fips": "17091",
+    "opioid_prescribe_perc": 5.908122339,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 0,
+    "Amount_x": 1,
+    "Amount_y": 91600,
+    "death_perpop": 0.012932572
+  },
+  {
+    "year": 2014,
+    "fips": "17097",
+    "opioid_prescribe_perc": 4.979255409,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 0,
+    "Amount_x": 2,
+    "Amount_y": 486000,
+    "death_perpop": 0.003520531
+  },
+  {
+    "year": 2014,
+    "fips": "17119",
+    "opioid_prescribe_perc": 5.825067775,
+    "Unemployment Rate": 7,
+    "total_crimes": 0,
+    "Amount_x": 8,
+    "Amount_y": 1039674,
+    "death_perpop": 0.009355412
+  },
+  {
+    "year": 2014,
+    "fips": "17143",
+    "opioid_prescribe_perc": 5.404927527,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 0,
+    "Amount_x": 3,
+    "Amount_y": 362925,
+    "death_perpop": 0.007783657
+  },
+  {
+    "year": 2014,
+    "fips": "17167",
+    "opioid_prescribe_perc": 5.162535501,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 0,
+    "Amount_x": 17,
+    "Amount_y": 1950888,
+    "death_perpop": 0.005523613
+  },
+  {
+    "year": 2014,
+    "fips": "17197",
+    "opioid_prescribe_perc": 4.806617494,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 0,
+    "Amount_x": 9,
+    "Amount_y": 2039771,
+    "death_perpop": 0.004159167
+  },
+  {
+    "year": 2014,
+    "fips": "18003",
+    "opioid_prescribe_perc": 8.015354975,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 10187,
+    "Amount_x": 149,
+    "Amount_y": 18957637,
+    "death_perpop": 0.00936603
+  },
+  {
+    "year": 2014,
+    "fips": "18011",
+    "opioid_prescribe_perc": 6.070453982,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 1608,
+    "Amount_x": 63,
+    "Amount_y": 12548953,
+    "death_perpop": 0.019842254
+  },
+  {
+    "year": 2014,
+    "fips": "18019",
+    "opioid_prescribe_perc": 7.338445896,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 7721,
+    "Amount_x": 25,
+    "Amount_y": 3523370,
+    "death_perpop": 0.009297136
+  },
+  {
+    "year": 2014,
+    "fips": "18035",
+    "opioid_prescribe_perc": 7.163002019,
+    "Unemployment Rate": 7,
+    "total_crimes": 4778,
+    "Amount_x": 14,
+    "Amount_y": 1540200,
+    "death_perpop": 0.011065337
+  },
+  {
+    "year": 2014,
+    "fips": "18053",
+    "opioid_prescribe_perc": 5.746591849,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 1662,
+    "Amount_x": 18,
+    "Amount_y": 1719150,
+    "death_perpop": 0.021699505
+  },
+  {
+    "year": 2014,
+    "fips": "18057",
+    "opioid_prescribe_perc": 6.560197039,
+    "Unemployment Rate": 4.1,
+    "total_crimes": 8399,
+    "Amount_x": 374,
+    "Amount_y": 82235423,
+    "death_perpop": 0.004044585
+  },
+  {
+    "year": 2014,
+    "fips": "18059",
+    "opioid_prescribe_perc": 5.235210213,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 1911,
+    "Amount_x": 106,
+    "Amount_y": 15424887,
+    "death_perpop": 0.013971359
+  },
+  {
+    "year": 2014,
+    "fips": "18065",
+    "opioid_prescribe_perc": 8.575322002,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 1736,
+    "Amount_x": 9,
+    "Amount_y": 1129950,
+    "death_perpop": 0.028545796
+  },
+  {
+    "year": 2014,
+    "fips": "18067",
+    "opioid_prescribe_perc": 6.004926587,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 4907,
+    "Amount_x": 114,
+    "Amount_y": 14038350,
+    "death_perpop": 0.021749638
+  },
+  {
+    "year": 2014,
+    "fips": "18081",
+    "opioid_prescribe_perc": 5.600099319,
+    "Unemployment Rate": 5,
+    "total_crimes": 6109,
+    "Amount_x": 103,
+    "Amount_y": 16941113,
+    "death_perpop": 0.006871199
+  },
+  {
+    "year": 2014,
+    "fips": "18089",
+    "opioid_prescribe_perc": 5.995504854,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 21235,
+    "Amount_x": 96,
+    "Amount_y": 18765170,
+    "death_perpop": 0.006206049
+  },
+  {
+    "year": 2014,
+    "fips": "18095",
+    "opioid_prescribe_perc": 9.479187305,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 5042,
+    "Amount_x": 22,
+    "Amount_y": 2951275,
+    "death_perpop": 0.008430282
+  },
+  {
+    "year": 2014,
+    "fips": "18097",
+    "opioid_prescribe_perc": 6.545712255,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 38960,
+    "Amount_x": 288,
+    "Amount_y": 46560960,
+    "death_perpop": 0.004524492
+  },
+  {
+    "year": 2014,
+    "fips": "18127",
+    "opioid_prescribe_perc": 7.287771082,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 4114,
+    "Amount_x": 19,
+    "Amount_y": 3322006,
+    "death_perpop": 0.011707704
+  },
+  {
+    "year": 2014,
+    "fips": "18157",
+    "opioid_prescribe_perc": 6.749595349,
+    "Unemployment Rate": 5,
+    "total_crimes": 7005,
+    "Amount_x": 78,
+    "Amount_y": 12748842,
+    "death_perpop": 0.010545362
+  },
+  {
+    "year": 2014,
+    "fips": "18163",
+    "opioid_prescribe_perc": 8.57850912,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 10235,
+    "Amount_x": 206,
+    "Amount_y": 28467837,
+    "death_perpop": 0.014884398
+  },
+  {
+    "year": 2014,
+    "fips": "18167",
+    "opioid_prescribe_perc": 5.313585758,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 4346,
+    "Amount_x": 39,
+    "Amount_y": 4297740,
+    "death_perpop": 0.011081253
+  },
+  {
+    "year": 2014,
+    "fips": "18177",
+    "opioid_prescribe_perc": 6.359250969,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 2416,
+    "Amount_x": 18,
+    "Amount_y": 2289400,
+    "death_perpop": 0.022093588
+  },
+  {
+    "year": 2014,
+    "fips": "19113",
+    "opioid_prescribe_perc": 4.957643919,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 11783,
+    "Amount_x": 119,
+    "Amount_y": 19935120,
+    "death_perpop": 0.005089977
+  },
+  {
+    "year": 2014,
+    "fips": "19153",
+    "opioid_prescribe_perc": 6.041224664,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 21511,
+    "Amount_x": 347,
+    "Amount_y": 64323240,
+    "death_perpop": 0.004151197
+  },
+  {
+    "year": 2014,
+    "fips": "19163",
+    "opioid_prescribe_perc": 4.814402346,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 9543,
+    "Amount_x": 141,
+    "Amount_y": 22957850,
+    "death_perpop": 0.008950318
+  },
+  {
+    "year": 2014,
+    "fips": "20091",
+    "opioid_prescribe_perc": 6.786395194,
+    "Unemployment Rate": 3.8,
+    "total_crimes": 20352,
+    "Amount_x": 338,
+    "Amount_y": 71344089,
+    "death_perpop": 0.002928036
+  },
+  {
+    "year": 2014,
+    "fips": "20173",
+    "opioid_prescribe_perc": 6.80683429,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 15811,
+    "Amount_x": 317,
+    "Amount_y": 48442740,
+    "death_perpop": 0.00390768
+  },
+  {
+    "year": 2014,
+    "fips": "21015",
+    "opioid_prescribe_perc": 10.01759106,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 6188,
+    "Amount_x": 156,
+    "Amount_y": 29710186,
+    "death_perpop": 0.016071744
+  },
+  {
+    "year": 2014,
+    "fips": "21037",
+    "opioid_prescribe_perc": 6.731786225,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 6847,
+    "Amount_x": 132,
+    "Amount_y": 22311577,
+    "death_perpop": 0.017035213
+  },
+  {
+    "year": 2014,
+    "fips": "21059",
+    "opioid_prescribe_perc": 6.02886207,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 7091,
+    "Amount_x": 11,
+    "Amount_y": 1809010,
+    "death_perpop": 0.01221772
+  },
+  {
+    "year": 2014,
+    "fips": "21067",
+    "opioid_prescribe_perc": 7.549978441,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 13396,
+    "Amount_x": 137,
+    "Amount_y": 22451119,
+    "death_perpop": 0.00788947
+  },
+  {
+    "year": 2014,
+    "fips": "21071",
+    "opioid_prescribe_perc": 6.436040164,
+    "Unemployment Rate": 10.3,
+    "total_crimes": 656,
+    "Amount_x": 1,
+    "Amount_y": 72000,
+    "death_perpop": 0.038731667
+  },
+  {
+    "year": 2014,
+    "fips": "21073",
+    "opioid_prescribe_perc": 6.392750489,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 3782,
+    "Amount_x": 9,
+    "Amount_y": 1392925,
+    "death_perpop": 0.022155978
+  },
+  {
+    "year": 2014,
+    "fips": "21089",
+    "opioid_prescribe_perc": 4.909817122,
+    "Unemployment Rate": 8.5,
+    "total_crimes": 462,
+    "Amount_x": 16,
+    "Amount_y": 1717000,
+    "death_perpop": 0.030121307
+  },
+  {
+    "year": 2014,
+    "fips": "21107",
+    "opioid_prescribe_perc": 6.1087065,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 3825,
+    "Amount_x": 1,
+    "Amount_y": 134400,
+    "death_perpop": 0.021443582
+  },
+  {
+    "year": 2014,
+    "fips": "21111",
+    "opioid_prescribe_perc": 6.554232474,
+    "Unemployment Rate": 6,
+    "total_crimes": 56580,
+    "Amount_x": 130,
+    "Amount_y": 23079968,
+    "death_perpop": 0.005490724
+  },
+  {
+    "year": 2014,
+    "fips": "21117",
+    "opioid_prescribe_perc": 7.794076944,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 9259,
+    "Amount_x": 216,
+    "Amount_y": 37001975,
+    "death_perpop": 0.013484937
+  },
+  {
+    "year": 2014,
+    "fips": "21199",
+    "opioid_prescribe_perc": 5.252490077,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 3004,
+    "Amount_x": 7,
+    "Amount_y": 798961,
+    "death_perpop": 0.015647738
+  },
+  {
+    "year": 2014,
+    "fips": "21235",
+    "opioid_prescribe_perc": 6.115590688,
+    "Unemployment Rate": 8.7,
+    "total_crimes": 1809,
+    "Amount_x": 3,
+    "Amount_y": 238600,
+    "death_perpop": 0.030755466
+  },
+  {
+    "year": 2014,
+    "fips": "22017",
+    "opioid_prescribe_perc": 6.91952348,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 19891,
+    "Amount_x": 2,
+    "Amount_y": 580120,
+    "death_perpop": 0.00549263
+  },
+  {
+    "year": 2014,
+    "fips": "22071",
+    "opioid_prescribe_perc": 5.471620816,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 13505,
+    "Amount_x": 3,
+    "Amount_y": 632800,
+    "death_perpop": 0.008977727
+  },
+  {
+    "year": 2014,
+    "fips": "23005",
+    "opioid_prescribe_perc": 6.003527606,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 12644,
+    "Amount_x": 83,
+    "Amount_y": 20331511,
+    "death_perpop": 0.005867804
+  },
+  {
+    "year": 2014,
+    "fips": "23011",
+    "opioid_prescribe_perc": 7.531229705,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 6313,
+    "Amount_x": 2,
+    "Amount_y": 251500,
+    "death_perpop": 0.009903932
+  },
+  {
+    "year": 2014,
+    "fips": "23019",
+    "opioid_prescribe_perc": 6.046106285,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 6131,
+    "Amount_x": 2,
+    "Amount_y": 387920,
+    "death_perpop": 0.006520435
+  },
+  {
+    "year": 2014,
+    "fips": "23031",
+    "opioid_prescribe_perc": 6.40425969,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 9777,
+    "Amount_x": 107,
+    "Amount_y": 22378956,
+    "death_perpop": 0.005849977
+  },
+  {
+    "year": 2014,
+    "fips": "24005",
+    "opioid_prescribe_perc": 6.384255153,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 39719,
+    "Amount_x": 2,
+    "Amount_y": 952500,
+    "death_perpop": 0.004266157
+  },
+  {
+    "year": 2014,
+    "fips": "24005",
+    "opioid_prescribe_perc": 6.384255153,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 39719,
+    "Amount_x": 2,
+    "Amount_y": 952500,
+    "death_perpop": 0.006809735
+  },
+  {
+    "year": 2014,
+    "fips": "24013",
+    "opioid_prescribe_perc": 4.911815164,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 5813,
+    "Amount_x": 5,
+    "Amount_y": 1403400,
+    "death_perpop": 0.010145377
+  },
+  {
+    "year": 2014,
+    "fips": "24021",
+    "opioid_prescribe_perc": 6.741674339,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 10083,
+    "Amount_x": 6,
+    "Amount_y": 2212000,
+    "death_perpop": 0.007180069
+  },
+  {
+    "year": 2014,
+    "fips": "24027",
+    "opioid_prescribe_perc": 5.137375615,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 9698,
+    "Amount_x": 12,
+    "Amount_y": 4375450,
+    "death_perpop": 0.005253135
+  },
+  {
+    "year": 2014,
+    "fips": "24031",
+    "opioid_prescribe_perc": 4.579224406,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 30377,
+    "Amount_x": 66,
+    "Amount_y": 29405187,
+    "death_perpop": 0.001598344
+  },
+  {
+    "year": 2014,
+    "fips": "24045",
+    "opioid_prescribe_perc": 5.485806042,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 9320,
+    "Amount_x": 1,
+    "Amount_y": 162011,
+    "death_perpop": 0.010902315
+  },
+  {
+    "year": 2014,
+    "fips": "25001",
+    "opioid_prescribe_perc": 4.286267103,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 8220,
+    "Amount_x": 33,
+    "Amount_y": 7663037,
+    "death_perpop": 0.010930741
+  },
+  {
+    "year": 2014,
+    "fips": "25003",
+    "opioid_prescribe_perc": 4.805346007,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 4047,
+    "Amount_x": 1,
+    "Amount_y": 27000,
+    "death_perpop": 0.010032025
+  },
+  {
+    "year": 2014,
+    "fips": "25005",
+    "opioid_prescribe_perc": 4.320503509,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 18050,
+    "Amount_x": 56,
+    "Amount_y": 12368322,
+    "death_perpop": 0.007577859
+  },
+  {
+    "year": 2014,
+    "fips": "25009",
+    "opioid_prescribe_perc": 4.318736015,
+    "Unemployment Rate": 6,
+    "total_crimes": 18995,
+    "Amount_x": 112,
+    "Amount_y": 29974603,
+    "death_perpop": 0.004780611
+  },
+  {
+    "year": 2014,
+    "fips": "25013",
+    "opioid_prescribe_perc": 5.590806267,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 15754,
+    "Amount_x": 48,
+    "Amount_y": 7931570,
+    "death_perpop": 0.006480737
+  },
+  {
+    "year": 2014,
+    "fips": "25015",
+    "opioid_prescribe_perc": 4.743716822,
+    "Unemployment Rate": 5,
+    "total_crimes": 3945,
+    "Amount_x": 8,
+    "Amount_y": 1433500,
+    "death_perpop": 0.011069617
+  },
+  {
+    "year": 2014,
+    "fips": "25017",
+    "opioid_prescribe_perc": 4.069026537,
+    "Unemployment Rate": 4.7,
+    "total_crimes": 20805,
+    "Amount_x": 256,
+    "Amount_y": 78673618,
+    "death_perpop": 0.002921405
+  },
+  {
+    "year": 2014,
+    "fips": "25021",
+    "opioid_prescribe_perc": 4.533382962,
+    "Unemployment Rate": 5,
+    "total_crimes": 10709,
+    "Amount_x": 239,
+    "Amount_y": 64139819,
+    "death_perpop": 0.004543459
+  },
+  {
+    "year": 2014,
+    "fips": "25023",
+    "opioid_prescribe_perc": 4.382666287,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 15341,
+    "Amount_x": 133,
+    "Amount_y": 31912168,
+    "death_perpop": 0.007343304
+  },
+  {
+    "year": 2014,
+    "fips": "25025",
+    "opioid_prescribe_perc": 4.130289711,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 23070,
+    "Amount_x": 63,
+    "Amount_y": 18811731,
+    "death_perpop": 0.005162124
+  },
+  {
+    "year": 2014,
+    "fips": "25027",
+    "opioid_prescribe_perc": 4.378401286,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 21950,
+    "Amount_x": 111,
+    "Amount_y": 23346890,
+    "death_perpop": 0.005221813
+  },
+  {
+    "year": 2014,
+    "fips": "26017",
+    "opioid_prescribe_perc": 7.236942209,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 3682,
+    "Amount_x": 2,
+    "Amount_y": 237000,
+    "death_perpop": 0.011232589
+  },
+  {
+    "year": 2014,
+    "fips": "26025",
+    "opioid_prescribe_perc": 7.962721051,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 5769,
+    "Amount_x": 7,
+    "Amount_y": 656915,
+    "death_perpop": 0.018516873
+  },
+  {
+    "year": 2014,
+    "fips": "26045",
+    "opioid_prescribe_perc": 7.831467149,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 1964,
+    "Amount_x": 20,
+    "Amount_y": 3025855,
+    "death_perpop": 0.011998376
+  },
+  {
+    "year": 2014,
+    "fips": "26049",
+    "opioid_prescribe_perc": 8.2166655,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 19288,
+    "Amount_x": 39,
+    "Amount_y": 4227830,
+    "death_perpop": 0.005216158
+  },
+  {
+    "year": 2014,
+    "fips": "26065",
+    "opioid_prescribe_perc": 7.658459962,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 9381,
+    "Amount_x": 115,
+    "Amount_y": 17074168,
+    "death_perpop": 0.00623596
+  },
+  {
+    "year": 2014,
+    "fips": "26075",
+    "opioid_prescribe_perc": 11.36380566,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 4462,
+    "Amount_x": 69,
+    "Amount_y": 10556517,
+    "death_perpop": 0.011847676
+  },
+  {
+    "year": 2014,
+    "fips": "26077",
+    "opioid_prescribe_perc": 7.028993704,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 10175,
+    "Amount_x": 143,
+    "Amount_y": 21028859,
+    "death_perpop": 0.005375402
+  },
+  {
+    "year": 2014,
+    "fips": "26081",
+    "opioid_prescribe_perc": 8.179488961,
+    "Unemployment Rate": 5,
+    "total_crimes": 17725,
+    "Amount_x": 455,
+    "Amount_y": 90321955,
+    "death_perpop": 0.003570854
+  },
+  {
+    "year": 2014,
+    "fips": "26093",
+    "opioid_prescribe_perc": 6.844770789,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 2939,
+    "Amount_x": 50,
+    "Amount_y": 11876460,
+    "death_perpop": 0.007319334
+  },
+  {
+    "year": 2014,
+    "fips": "26099",
+    "opioid_prescribe_perc": 7.500552366,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 23927,
+    "Amount_x": 45,
+    "Amount_y": 8029724,
+    "death_perpop": 0.006235603
+  },
+  {
+    "year": 2014,
+    "fips": "26115",
+    "opioid_prescribe_perc": 8.331276602,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 3037,
+    "Amount_x": 18,
+    "Amount_y": 2943729,
+    "death_perpop": 0.011304995
+  },
+  {
+    "year": 2014,
+    "fips": "26121",
+    "opioid_prescribe_perc": 9.026110012,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 5341,
+    "Amount_x": 48,
+    "Amount_y": 7472183,
+    "death_perpop": 0.00804056
+  },
+  {
+    "year": 2014,
+    "fips": "26125",
+    "opioid_prescribe_perc": 6.738485537,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 30804,
+    "Amount_x": 182,
+    "Amount_y": 37892928,
+    "death_perpop": 0.003342427
+  },
+  {
+    "year": 2014,
+    "fips": "26139",
+    "opioid_prescribe_perc": 6.399575592,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 9956,
+    "Amount_x": 359,
+    "Amount_y": 63165465,
+    "death_perpop": 0.003850371
+  },
+  {
+    "year": 2014,
+    "fips": "26145",
+    "opioid_prescribe_perc": 8.413362167,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 9308,
+    "Amount_x": 3,
+    "Amount_y": 540315,
+    "death_perpop": 0.013483123
+  },
+  {
+    "year": 2014,
+    "fips": "26161",
+    "opioid_prescribe_perc": 6.608268146,
+    "Unemployment Rate": 4.9,
+    "total_crimes": 10809,
+    "Amount_x": 204,
+    "Amount_y": 52581504,
+    "death_perpop": 0.004799006
+  },
+  {
+    "year": 2014,
+    "fips": "26163",
+    "opioid_prescribe_perc": 7.11195549,
+    "Unemployment Rate": 9.6,
+    "total_crimes": 65324,
+    "Amount_x": 161,
+    "Amount_y": 30718220,
+    "death_perpop": 0.004151041
+  },
+  {
+    "year": 2014,
+    "fips": "27003",
+    "opioid_prescribe_perc": 5.238663787,
+    "Unemployment Rate": 4.2,
+    "total_crimes": 10263,
+    "Amount_x": 5,
+    "Amount_y": 1095700,
+    "death_perpop": 0.004344189
+  },
+  {
+    "year": 2014,
+    "fips": "27037",
+    "opioid_prescribe_perc": 5.456025421,
+    "Unemployment Rate": 3.8,
+    "total_crimes": 11721,
+    "Amount_x": 10,
+    "Amount_y": 2598550,
+    "death_perpop": 0.00367189
+  },
+  {
+    "year": 2014,
+    "fips": "27053",
+    "opioid_prescribe_perc": 5.335760137,
+    "Unemployment Rate": 3.8,
+    "total_crimes": 52721,
+    "Amount_x": 43,
+    "Amount_y": 10173557,
+    "death_perpop": 0.002402446
+  },
+  {
+    "year": 2014,
+    "fips": "27123",
+    "opioid_prescribe_perc": 5.514570318,
+    "Unemployment Rate": 4,
+    "total_crimes": 19675,
+    "Amount_x": 10,
+    "Amount_y": 1899535,
+    "death_perpop": 0.003417414
+  },
+  {
+    "year": 2014,
+    "fips": "28059",
+    "opioid_prescribe_perc": 7.840909614,
+    "Unemployment Rate": 8,
+    "total_crimes": 7573,
+    "Amount_x": 1,
+    "Amount_y": 168000,
+    "death_perpop": 0.017087932
+  },
+  {
+    "year": 2014,
+    "fips": "29047",
+    "opioid_prescribe_perc": 5.599404991,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 7596,
+    "Amount_x": 134,
+    "Amount_y": 24551041,
+    "death_perpop": 0.004772793
+  },
+  {
+    "year": 2014,
+    "fips": "29071",
+    "opioid_prescribe_perc": 4.735224157,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 4422,
+    "Amount_x": 104,
+    "Amount_y": 14138568,
+    "death_perpop": 0.012768131
+  },
+  {
+    "year": 2014,
+    "fips": "29077",
+    "opioid_prescribe_perc": 6.720311923,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 15094,
+    "Amount_x": 8,
+    "Amount_y": 1016971,
+    "death_perpop": 0.00695741
+  },
+  {
+    "year": 2014,
+    "fips": "29095",
+    "opioid_prescribe_perc": 5.552285844,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 33546,
+    "Amount_x": 111,
+    "Amount_y": 18195871,
+    "death_perpop": 0.004117671
+  },
+  {
+    "year": 2014,
+    "fips": "29099",
+    "opioid_prescribe_perc": 8.2543487,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 12227,
+    "Amount_x": 18,
+    "Amount_y": 3126105,
+    "death_perpop": 0.009711106
+  },
+  {
+    "year": 2014,
+    "fips": "29219",
+    "opioid_prescribe_perc": 6.611461619,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 1742,
+    "Amount_x": 11,
+    "Amount_y": 1752984,
+    "death_perpop": 0.030303949
+  },
+  {
+    "year": 2014,
+    "fips": "31055",
+    "opioid_prescribe_perc": 5.283500006,
+    "Unemployment Rate": 3.6,
+    "total_crimes": 29189,
+    "Amount_x": 490,
+    "Amount_y": 95246299,
+    "death_perpop": 0.0026989
+  },
+  {
+    "year": 2014,
+    "fips": "31109",
+    "opioid_prescribe_perc": 4.599210312,
+    "Unemployment Rate": 3,
+    "total_crimes": 23787,
+    "Amount_x": 91,
+    "Amount_y": 15643154,
+    "death_perpop": 0.003703255
+  },
+  {
+    "year": 2014,
+    "fips": "32003",
+    "opioid_prescribe_perc": 7.43352749,
+    "Unemployment Rate": 8,
+    "total_crimes": 109474,
+    "Amount_x": 16,
+    "Amount_y": 3970370,
+    "death_perpop": 0.002876584
+  },
+  {
+    "year": 2014,
+    "fips": "32031",
+    "opioid_prescribe_perc": 8.693873684,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 23501,
+    "Amount_x": 3,
+    "Amount_y": 568000,
+    "death_perpop": 0.006962841
+  },
+  {
+    "year": 2014,
+    "fips": "33005",
+    "opioid_prescribe_perc": 5.812686627,
+    "Unemployment Rate": 4,
+    "total_crimes": 4194,
+    "Amount_x": 2,
+    "Amount_y": 241330,
+    "death_perpop": 0.013705783
+  },
+  {
+    "year": 2014,
+    "fips": "33011",
+    "opioid_prescribe_perc": 5.509892903,
+    "Unemployment Rate": 4.5,
+    "total_crimes": 15786,
+    "Amount_x": 13,
+    "Amount_y": 3477150,
+    "death_perpop": 0.007227991
+  },
+  {
+    "year": 2014,
+    "fips": "33013",
+    "opioid_prescribe_perc": 5.912132147,
+    "Unemployment Rate": 3.8,
+    "total_crimes": 7467,
+    "Amount_x": 7,
+    "Amount_y": 1389200,
+    "death_perpop": 0.009533603
+  },
+  {
+    "year": 2014,
+    "fips": "33015",
+    "opioid_prescribe_perc": 5.161323022,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 14597,
+    "Amount_x": 32,
+    "Amount_y": 9075095,
+    "death_perpop": 0.006184519
+  },
+  {
+    "year": 2014,
+    "fips": "33017",
+    "opioid_prescribe_perc": 8.623462137,
+    "Unemployment Rate": 4,
+    "total_crimes": 6945,
+    "Amount_x": 10,
+    "Amount_y": 1937216,
+    "death_perpop": 0.0120392
+  },
+  {
+    "year": 2014,
+    "fips": "34001",
+    "opioid_prescribe_perc": 6.45649653,
+    "Unemployment Rate": 10.5,
+    "total_crimes": 16981,
+    "Amount_x": 4,
+    "Amount_y": 671556,
+    "death_perpop": 0.006628573
+  },
+  {
+    "year": 2014,
+    "fips": "34003",
+    "opioid_prescribe_perc": 3.072565191,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 32018,
+    "Amount_x": 31,
+    "Amount_y": 11006776,
+    "death_perpop": 0.003090796
+  },
+  {
+    "year": 2014,
+    "fips": "34005",
+    "opioid_prescribe_perc": 5.614041639,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 25916,
+    "Amount_x": 14,
+    "Amount_y": 2804558,
+    "death_perpop": 0.009094176
+  },
+  {
+    "year": 2014,
+    "fips": "34007",
+    "opioid_prescribe_perc": 6.041452183,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 41036,
+    "Amount_x": 7,
+    "Amount_y": 1675828,
+    "death_perpop": 0.024373408
+  },
+  {
+    "year": 2014,
+    "fips": "34011",
+    "opioid_prescribe_perc": 4.768981587,
+    "Unemployment Rate": 9.9,
+    "total_crimes": 10920,
+    "Amount_x": 2,
+    "Amount_y": 325000,
+    "death_perpop": 0.006991585
+  },
+  {
+    "year": 2014,
+    "fips": "34013",
+    "opioid_prescribe_perc": 4.03807113,
+    "Unemployment Rate": 8,
+    "total_crimes": 48484,
+    "Amount_x": 18,
+    "Amount_y": 6107300,
+    "death_perpop": 0.004496147
+  },
+  {
+    "year": 2014,
+    "fips": "34015",
+    "opioid_prescribe_perc": 6.437789307,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 17962,
+    "Amount_x": 16,
+    "Amount_y": 3125640,
+    "death_perpop": 0.015962425
+  },
+  {
+    "year": 2014,
+    "fips": "34017",
+    "opioid_prescribe_perc": 3.543556741,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 24110,
+    "Amount_x": 6,
+    "Amount_y": 2005200,
+    "death_perpop": 0.003245367
+  },
+  {
+    "year": 2014,
+    "fips": "34021",
+    "opioid_prescribe_perc": 3.464789605,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 20766,
+    "Amount_x": 4,
+    "Amount_y": 761100,
+    "death_perpop": 0.004521967
+  },
+  {
+    "year": 2014,
+    "fips": "34023",
+    "opioid_prescribe_perc": 3.790186833,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 26819,
+    "Amount_x": 16,
+    "Amount_y": 5639874,
+    "death_perpop": 0.004282686
+  },
+  {
+    "year": 2014,
+    "fips": "34025",
+    "opioid_prescribe_perc": 4.558964832,
+    "Unemployment Rate": 6,
+    "total_crimes": 36184,
+    "Amount_x": 50,
+    "Amount_y": 18552530,
+    "death_perpop": 0.004673635
+  },
+  {
+    "year": 2014,
+    "fips": "34027",
+    "opioid_prescribe_perc": 4.101954868,
+    "Unemployment Rate": 5,
+    "total_crimes": 14874,
+    "Amount_x": 32,
+    "Amount_y": 9579925,
+    "death_perpop": 0.002953562
+  },
+  {
+    "year": 2014,
+    "fips": "34029",
+    "opioid_prescribe_perc": 4.244527837,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 23460,
+    "Amount_x": 22,
+    "Amount_y": 5276620,
+    "death_perpop": 0.005799198
+  },
+  {
+    "year": 2014,
+    "fips": "34031",
+    "opioid_prescribe_perc": 4.160103125,
+    "Unemployment Rate": 8.2,
+    "total_crimes": 24512,
+    "Amount_x": 9,
+    "Amount_y": 2317250,
+    "death_perpop": 0.004416565
+  },
+  {
+    "year": 2014,
+    "fips": "34035",
+    "opioid_prescribe_perc": 4.036627064,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 9996,
+    "Amount_x": 11,
+    "Amount_y": 3504883,
+    "death_perpop": 0.004839905
+  },
+  {
+    "year": 2014,
+    "fips": "34037",
+    "opioid_prescribe_perc": 3.883966632,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 4637,
+    "Amount_x": 1,
+    "Amount_y": 286500,
+    "death_perpop": 0.00684969
+  },
+  {
+    "year": 2014,
+    "fips": "34039",
+    "opioid_prescribe_perc": 3.178125002,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 23403,
+    "Amount_x": 17,
+    "Amount_y": 7008200,
+    "death_perpop": 0.003313537
+  },
+  {
+    "year": 2014,
+    "fips": "36001",
+    "opioid_prescribe_perc": 3.971345655,
+    "Unemployment Rate": 4.9,
+    "total_crimes": 12976,
+    "Amount_x": 74,
+    "Amount_y": 14065090,
+    "death_perpop": 0.004235286
+  },
+  {
+    "year": 2014,
+    "fips": "36005",
+    "opioid_prescribe_perc": 2.253113492,
+    "Unemployment Rate": 9.8,
+    "total_crimes": 0,
+    "Amount_x": 5,
+    "Amount_y": 1454800,
+    "death_perpop": 0.00406466
+  },
+  {
+    "year": 2014,
+    "fips": "36007",
+    "opioid_prescribe_perc": 4.946179095,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 9753,
+    "Amount_x": 31,
+    "Amount_y": 3806768,
+    "death_perpop": 0.009112355
+  },
+  {
+    "year": 2014,
+    "fips": "36011",
+    "opioid_prescribe_perc": 4.011675015,
+    "Unemployment Rate": 6,
+    "total_crimes": 2837,
+    "Amount_x": 11,
+    "Amount_y": 1653713,
+    "death_perpop": 0.012582257
+  },
+  {
+    "year": 2014,
+    "fips": "36013",
+    "opioid_prescribe_perc": 4.569008952,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 7406,
+    "Amount_x": 1,
+    "Amount_y": 265200,
+    "death_perpop": 0.007514277
+  },
+  {
+    "year": 2014,
+    "fips": "36027",
+    "opioid_prescribe_perc": 3.852699471,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 9343,
+    "Amount_x": 50,
+    "Amount_y": 10751899,
+    "death_perpop": 0.007914696
+  },
+  {
+    "year": 2014,
+    "fips": "36029",
+    "opioid_prescribe_perc": 4.367586561,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 50531,
+    "Amount_x": 9,
+    "Amount_y": 1763154,
+    "death_perpop": 0.004905606
+  },
+  {
+    "year": 2014,
+    "fips": "36047",
+    "opioid_prescribe_perc": 1.708501,
+    "Unemployment Rate": 7.6,
+    "total_crimes": 0,
+    "Amount_x": 13,
+    "Amount_y": 4363351,
+    "death_perpop": 0.00247328
+  },
+  {
+    "year": 2014,
+    "fips": "36055",
+    "opioid_prescribe_perc": 3.651580529,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 22806,
+    "Amount_x": 157,
+    "Amount_y": 19622061,
+    "death_perpop": 0.004211736
+  },
+  {
+    "year": 2014,
+    "fips": "36059",
+    "opioid_prescribe_perc": 2.505572468,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 25288,
+    "Amount_x": 71,
+    "Amount_y": 26513970,
+    "death_perpop": 0.003574565
+  },
+  {
+    "year": 2014,
+    "fips": "36063",
+    "opioid_prescribe_perc": 3.745033475,
+    "Unemployment Rate": 7,
+    "total_crimes": 7294,
+    "Amount_x": 2,
+    "Amount_y": 214400,
+    "death_perpop": 0.006534453
+  },
+  {
+    "year": 2014,
+    "fips": "36065",
+    "opioid_prescribe_perc": 3.654981698,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 10743,
+    "Amount_x": 14,
+    "Amount_y": 1867650,
+    "death_perpop": 0.004923261
+  },
+  {
+    "year": 2014,
+    "fips": "36067",
+    "opioid_prescribe_perc": 4.139126065,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 26920,
+    "Amount_x": 52,
+    "Amount_y": 7605414,
+    "death_perpop": 0.004147974
+  },
+  {
+    "year": 2014,
+    "fips": "36071",
+    "opioid_prescribe_perc": 4.006907431,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 19953,
+    "Amount_x": 62,
+    "Amount_y": 11797994,
+    "death_perpop": 0.005705279
+  },
+  {
+    "year": 2014,
+    "fips": "36075",
+    "opioid_prescribe_perc": 3.723696897,
+    "Unemployment Rate": 8,
+    "total_crimes": 5027,
+    "Amount_x": 58,
+    "Amount_y": 6020650,
+    "death_perpop": 0.010316511
+  },
+  {
+    "year": 2014,
+    "fips": "36081",
+    "opioid_prescribe_perc": 1.658907615,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 0,
+    "Amount_x": 49,
+    "Amount_y": 18378650,
+    "death_perpop": 0.002414644
+  },
+  {
+    "year": 2014,
+    "fips": "36085",
+    "opioid_prescribe_perc": 2.848030087,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 0,
+    "Amount_x": 13,
+    "Amount_y": 5131180,
+    "death_perpop": 0.005954635
+  },
+  {
+    "year": 2014,
+    "fips": "36087",
+    "opioid_prescribe_perc": 2.578697372,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 9125,
+    "Amount_x": 4,
+    "Amount_y": 1160000,
+    "death_perpop": 0.005297551
+  },
+  {
+    "year": 2014,
+    "fips": "36103",
+    "opioid_prescribe_perc": 3.512787562,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 49902,
+    "Amount_x": 121,
+    "Amount_y": 37007211,
+    "death_perpop": 0.004764469
+  },
+  {
+    "year": 2014,
+    "fips": "36105",
+    "opioid_prescribe_perc": 5.587556817,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 4393,
+    "Amount_x": 10,
+    "Amount_y": 1518105,
+    "death_perpop": 0.015652514
+  },
+  {
+    "year": 2014,
+    "fips": "36111",
+    "opioid_prescribe_perc": 4.573921182,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 10772,
+    "Amount_x": 33,
+    "Amount_y": 5975522,
+    "death_perpop": 0.007734892
+  },
+  {
+    "year": 2014,
+    "fips": "36119",
+    "opioid_prescribe_perc": 2.366608543,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 28717,
+    "Amount_x": 16,
+    "Amount_y": 5885600,
+    "death_perpop": 0.002978642
+  },
+  {
+    "year": 2014,
+    "fips": "37001",
+    "opioid_prescribe_perc": 4.453510946,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 8189,
+    "Amount_x": 1,
+    "Amount_y": 91990,
+    "death_perpop": 0.007125368
+  },
+  {
+    "year": 2014,
+    "fips": "37019",
+    "opioid_prescribe_perc": 8.100632345,
+    "Unemployment Rate": 7.9,
+    "total_crimes": 2935,
+    "Amount_x": 1,
+    "Amount_y": 180000,
+    "death_perpop": 0.011274837
+  },
+  {
+    "year": 2014,
+    "fips": "37025",
+    "opioid_prescribe_perc": 4.206523677,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 10904,
+    "Amount_x": 1,
+    "Amount_y": 371200,
+    "death_perpop": 0.007210537
+  },
+  {
+    "year": 2014,
+    "fips": "37035",
+    "opioid_prescribe_perc": 7.739161061,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 7278,
+    "Amount_x": 1,
+    "Amount_y": 140000,
+    "death_perpop": 0.00839739
+  },
+  {
+    "year": 2014,
+    "fips": "37063",
+    "opioid_prescribe_perc": 7.720520222,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 10595,
+    "Amount_x": 4,
+    "Amount_y": 1010250,
+    "death_perpop": 0.006594177
+  },
+  {
+    "year": 2014,
+    "fips": "37067",
+    "opioid_prescribe_perc": 6.202466276,
+    "Unemployment Rate": 6,
+    "total_crimes": 29176,
+    "Amount_x": 2,
+    "Amount_y": 327182,
+    "death_perpop": 0.004429434
+  },
+  {
+    "year": 2014,
+    "fips": "37081",
+    "opioid_prescribe_perc": 5.534072287,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 36680,
+    "Amount_x": 3,
+    "Amount_y": 662300,
+    "death_perpop": 0.003454334
+  },
+  {
+    "year": 2014,
+    "fips": "37097",
+    "opioid_prescribe_perc": 6.862895326,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 9860,
+    "Amount_x": 2,
+    "Amount_y": 572000,
+    "death_perpop": 0.010333279
+  },
+  {
+    "year": 2014,
+    "fips": "37109",
+    "opioid_prescribe_perc": 5.408283155,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 3749,
+    "Amount_x": 1,
+    "Amount_y": 80000,
+    "death_perpop": 0.012540757
+  },
+  {
+    "year": 2014,
+    "fips": "37119",
+    "opioid_prescribe_perc": 6.050354037,
+    "Unemployment Rate": 6,
+    "total_crimes": 38859,
+    "Amount_x": 8,
+    "Amount_y": 1755800,
+    "death_perpop": 0.002098939
+  },
+  {
+    "year": 2014,
+    "fips": "37133",
+    "opioid_prescribe_perc": 7.842805116,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 7456,
+    "Amount_x": 1,
+    "Amount_y": 195200,
+    "death_perpop": 0.005398985
+  },
+  {
+    "year": 2014,
+    "fips": "37151",
+    "opioid_prescribe_perc": 5.187580617,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 7535,
+    "Amount_x": 1,
+    "Amount_y": 182000,
+    "death_perpop": 0.011222006
+  },
+  {
+    "year": 2014,
+    "fips": "37155",
+    "opioid_prescribe_perc": 7.852174773,
+    "Unemployment Rate": 9.5,
+    "total_crimes": 5239,
+    "Amount_x": 1,
+    "Amount_y": 210600,
+    "death_perpop": 0.00889937
+  },
+  {
+    "year": 2014,
+    "fips": "37179",
+    "opioid_prescribe_perc": 8.70857344,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 7339,
+    "Amount_x": 2,
+    "Amount_y": 728300,
+    "death_perpop": 0.005640264
+  },
+  {
+    "year": 2014,
+    "fips": "37183",
+    "opioid_prescribe_perc": 5.582693606,
+    "Unemployment Rate": 4.9,
+    "total_crimes": 58314,
+    "Amount_x": 18,
+    "Amount_y": 4674923,
+    "death_perpop": 0.002078439
+  },
+  {
+    "year": 2014,
+    "fips": "39003",
+    "opioid_prescribe_perc": 5.061276017,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 9662,
+    "Amount_x": 12,
+    "Amount_y": 1888850,
+    "death_perpop": 0.011396228
+  },
+  {
+    "year": 2014,
+    "fips": "39015",
+    "opioid_prescribe_perc": 6.287981002,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 627,
+    "Amount_x": 22,
+    "Amount_y": 3754775,
+    "death_perpop": 0.022591722
+  },
+  {
+    "year": 2014,
+    "fips": "39017",
+    "opioid_prescribe_perc": 6.728185547,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 23267,
+    "Amount_x": 414,
+    "Amount_y": 69792889,
+    "death_perpop": 0.010414647
+  },
+  {
+    "year": 2014,
+    "fips": "39023",
+    "opioid_prescribe_perc": 3.923147139,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 5548,
+    "Amount_x": 29,
+    "Amount_y": 4600187,
+    "death_perpop": 0.011603399
+  },
+  {
+    "year": 2014,
+    "fips": "39025",
+    "opioid_prescribe_perc": 6.271001874,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 5926,
+    "Amount_x": 247,
+    "Amount_y": 41327481,
+    "death_perpop": 0.014983668
+  },
+  {
+    "year": 2014,
+    "fips": "39027",
+    "opioid_prescribe_perc": 5.299591397,
+    "Unemployment Rate": 7.7,
+    "total_crimes": 1150,
+    "Amount_x": 6,
+    "Amount_y": 717500,
+    "death_perpop": 0.023840744
+  },
+  {
+    "year": 2014,
+    "fips": "39029",
+    "opioid_prescribe_perc": 4.578441747,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 2193,
+    "Amount_x": 3,
+    "Amount_y": 333260,
+    "death_perpop": 0.021720038
+  },
+  {
+    "year": 2014,
+    "fips": "39035",
+    "opioid_prescribe_perc": 5.025589826,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 41372,
+    "Amount_x": 70,
+    "Amount_y": 11793740,
+    "death_perpop": 0.005977102
+  },
+  {
+    "year": 2014,
+    "fips": "39043",
+    "opioid_prescribe_perc": 4.858271963,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 5022,
+    "Amount_x": 2,
+    "Amount_y": 226750,
+    "death_perpop": 0.016436987
+  },
+  {
+    "year": 2014,
+    "fips": "39045",
+    "opioid_prescribe_perc": 5.747504469,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 2858,
+    "Amount_x": 67,
+    "Amount_y": 11088275,
+    "death_perpop": 0.007389146
+  },
+  {
+    "year": 2014,
+    "fips": "39049",
+    "opioid_prescribe_perc": 5.93212321,
+    "Unemployment Rate": 4.9,
+    "total_crimes": 28111,
+    "Amount_x": 742,
+    "Amount_y": 140606767,
+    "death_perpop": 0.005774325
+  },
+  {
+    "year": 2014,
+    "fips": "39057",
+    "opioid_prescribe_perc": 6.084611766,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 5072,
+    "Amount_x": 120,
+    "Amount_y": 18770463,
+    "death_perpop": 0.006433666
+  },
+  {
+    "year": 2014,
+    "fips": "39061",
+    "opioid_prescribe_perc": 6.314913325,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 43052,
+    "Amount_x": 1157,
+    "Amount_y": 203503560,
+    "death_perpop": 0.006948242
+  },
+  {
+    "year": 2014,
+    "fips": "39077",
+    "opioid_prescribe_perc": 5.213098436,
+    "Unemployment Rate": 8,
+    "total_crimes": 2364,
+    "Amount_x": 1,
+    "Amount_y": 60000,
+    "death_perpop": 0.017830155
+  },
+  {
+    "year": 2014,
+    "fips": "39081",
+    "opioid_prescribe_perc": 4.855449964,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 1705,
+    "Amount_x": 5,
+    "Amount_y": 454300,
+    "death_perpop": 0.023541875
+  },
+  {
+    "year": 2014,
+    "fips": "39085",
+    "opioid_prescribe_perc": 4.813487316,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 11107,
+    "Amount_x": 22,
+    "Amount_y": 4130155,
+    "death_perpop": 0.008048482
+  },
+  {
+    "year": 2014,
+    "fips": "39089",
+    "opioid_prescribe_perc": 5.206206582,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 3510,
+    "Amount_x": 53,
+    "Amount_y": 9092730,
+    "death_perpop": 0.00623608
+  },
+  {
+    "year": 2014,
+    "fips": "39093",
+    "opioid_prescribe_perc": 6.474601552,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 9966,
+    "Amount_x": 42,
+    "Amount_y": 7149277,
+    "death_perpop": 0.008145465
+  },
+  {
+    "year": 2014,
+    "fips": "39095",
+    "opioid_prescribe_perc": 6.15297154,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 6139,
+    "Amount_x": 72,
+    "Amount_y": 13845250,
+    "death_perpop": 0.008249445
+  },
+  {
+    "year": 2014,
+    "fips": "39099",
+    "opioid_prescribe_perc": 6.00546638,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 9240,
+    "Amount_x": 11,
+    "Amount_y": 1477720,
+    "death_perpop": 0.00838076
+  },
+  {
+    "year": 2014,
+    "fips": "39103",
+    "opioid_prescribe_perc": 4.885930509,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 3954,
+    "Amount_x": 23,
+    "Amount_y": 3987490,
+    "death_perpop": 0.006288769
+  },
+  {
+    "year": 2014,
+    "fips": "39113",
+    "opioid_prescribe_perc": 5.862077403,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 28595,
+    "Amount_x": 380,
+    "Amount_y": 53099163,
+    "death_perpop": 0.008371275
+  },
+  {
+    "year": 2014,
+    "fips": "39133",
+    "opioid_prescribe_perc": 4.760784966,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 8501,
+    "Amount_x": 10,
+    "Amount_y": 1612600,
+    "death_perpop": 0.007933505
+  },
+  {
+    "year": 2014,
+    "fips": "39139",
+    "opioid_prescribe_perc": 5.089446356,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 8605,
+    "Amount_x": 2,
+    "Amount_y": 351000,
+    "death_perpop": 0.016013402
+  },
+  {
+    "year": 2014,
+    "fips": "39141",
+    "opioid_prescribe_perc": 6.103723562,
+    "Unemployment Rate": 6.4,
+    "total_crimes": 2177,
+    "Amount_x": 8,
+    "Amount_y": 944100,
+    "death_perpop": 0.012835323
+  },
+  {
+    "year": 2014,
+    "fips": "39151",
+    "opioid_prescribe_perc": 6.166910906,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 10804,
+    "Amount_x": 58,
+    "Amount_y": 10421580,
+    "death_perpop": 0.004954293
+  },
+  {
+    "year": 2014,
+    "fips": "39153",
+    "opioid_prescribe_perc": 6.579148402,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 26110,
+    "Amount_x": 43,
+    "Amount_y": 7427229,
+    "death_perpop": 0.005194096
+  },
+  {
+    "year": 2014,
+    "fips": "39155",
+    "opioid_prescribe_perc": 6.68492943,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 5398,
+    "Amount_x": 3,
+    "Amount_y": 522500,
+    "death_perpop": 0.008113659
+  },
+  {
+    "year": 2014,
+    "fips": "39157",
+    "opioid_prescribe_perc": 7.652335415,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 2112,
+    "Amount_x": 28,
+    "Amount_y": 3984700,
+    "death_perpop": 0.010790746
+  },
+  {
+    "year": 2014,
+    "fips": "39165",
+    "opioid_prescribe_perc": 5.888837892,
+    "Unemployment Rate": 5,
+    "total_crimes": 4718,
+    "Amount_x": 410,
+    "Amount_y": 83753240,
+    "death_perpop": 0.006235675
+  },
+  {
+    "year": 2014,
+    "fips": "40017",
+    "opioid_prescribe_perc": 6.560337572,
+    "Unemployment Rate": 3.6,
+    "total_crimes": 2696,
+    "Amount_x": 52,
+    "Amount_y": 8599348,
+    "death_perpop": 0.007928768
+  },
+  {
+    "year": 2014,
+    "fips": "40027",
+    "opioid_prescribe_perc": 7.586576917,
+    "Unemployment Rate": 3.7,
+    "total_crimes": 17646,
+    "Amount_x": 53,
+    "Amount_y": 9586711,
+    "death_perpop": 0.007425559
+  },
+  {
+    "year": 2014,
+    "fips": "40037",
+    "opioid_prescribe_perc": 8.508976725,
+    "Unemployment Rate": 5,
+    "total_crimes": 1912,
+    "Amount_x": 26,
+    "Amount_y": 4095414,
+    "death_perpop": 0.014190436
+  },
+  {
+    "year": 2014,
+    "fips": "40101",
+    "opioid_prescribe_perc": 5.979196523,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 3624,
+    "Amount_x": 7,
+    "Amount_y": 1202440,
+    "death_perpop": 0.015646558
+  },
+  {
+    "year": 2014,
+    "fips": "40109",
+    "opioid_prescribe_perc": 8.050694478,
+    "Unemployment Rate": 4.2,
+    "total_crimes": 45239,
+    "Amount_x": 128,
+    "Amount_y": 21354764,
+    "death_perpop": 0.004955818
+  },
+  {
+    "year": 2014,
+    "fips": "40135",
+    "opioid_prescribe_perc": 7.657083452,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 1493,
+    "Amount_x": 1,
+    "Amount_y": 115000,
+    "death_perpop": 0.024261245
+  },
+  {
+    "year": 2014,
+    "fips": "40143",
+    "opioid_prescribe_perc": 8.480043032,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 26728,
+    "Amount_x": 289,
+    "Amount_y": 43476261,
+    "death_perpop": 0.005623312
+  },
+  {
+    "year": 2014,
+    "fips": "40145",
+    "opioid_prescribe_perc": 9.131925865,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 1181,
+    "Amount_x": 38,
+    "Amount_y": 5511702,
+    "death_perpop": 0.015852048
+  },
+  {
+    "year": 2014,
+    "fips": "41039",
+    "opioid_prescribe_perc": 8.864239425,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 24232,
+    "Amount_x": 1,
+    "Amount_y": 335920,
+    "death_perpop": 0.004154829
+  },
+  {
+    "year": 2014,
+    "fips": "41051",
+    "opioid_prescribe_perc": 6.926050092,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 33519,
+    "Amount_x": 9,
+    "Amount_y": 2093200,
+    "death_perpop": 0.003625703
+  },
+  {
+    "year": 2014,
+    "fips": "41067",
+    "opioid_prescribe_perc": 6.838085905,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 15136,
+    "Amount_x": 4,
+    "Amount_y": 947400,
+    "death_perpop": 0.002102117
+  },
+  {
+    "year": 2014,
+    "fips": "42003",
+    "opioid_prescribe_perc": 5.594622417,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 58328,
+    "Amount_x": 216,
+    "Amount_y": 37725967,
+    "death_perpop": 0.005629867
+  },
+  {
+    "year": 2014,
+    "fips": "42007",
+    "opioid_prescribe_perc": 4.640720581,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 7297,
+    "Amount_x": 13,
+    "Amount_y": 2062850,
+    "death_perpop": 0.011168915
+  },
+  {
+    "year": 2014,
+    "fips": "42011",
+    "opioid_prescribe_perc": 4.577469463,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 19322,
+    "Amount_x": 13,
+    "Amount_y": 1990983,
+    "death_perpop": 0.00367575
+  },
+  {
+    "year": 2014,
+    "fips": "42013",
+    "opioid_prescribe_perc": 5.384066933,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 6259,
+    "Amount_x": 20,
+    "Amount_y": 2873260,
+    "death_perpop": 0.008708457
+  },
+  {
+    "year": 2014,
+    "fips": "42017",
+    "opioid_prescribe_perc": 4.349757422,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 18273,
+    "Amount_x": 52,
+    "Amount_y": 11985130,
+    "death_perpop": 0.004976267
+  },
+  {
+    "year": 2014,
+    "fips": "42019",
+    "opioid_prescribe_perc": 4.468277166,
+    "Unemployment Rate": 5,
+    "total_crimes": 5744,
+    "Amount_x": 41,
+    "Amount_y": 8961103,
+    "death_perpop": 0.008356876
+  },
+  {
+    "year": 2014,
+    "fips": "42021",
+    "opioid_prescribe_perc": 5.484552096,
+    "Unemployment Rate": 7,
+    "total_crimes": 6515,
+    "Amount_x": 5,
+    "Amount_y": 758100,
+    "death_perpop": 0.027046456
+  },
+  {
+    "year": 2014,
+    "fips": "42025",
+    "opioid_prescribe_perc": 5.09679789,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 2974,
+    "Amount_x": 2,
+    "Amount_y": 200950,
+    "death_perpop": 0.016978977
+  },
+  {
+    "year": 2014,
+    "fips": "42029",
+    "opioid_prescribe_perc": 4.874788157,
+    "Unemployment Rate": 4.1,
+    "total_crimes": 14619,
+    "Amount_x": 36,
+    "Amount_y": 9454120,
+    "death_perpop": 0.006869911
+  },
+  {
+    "year": 2014,
+    "fips": "42039",
+    "opioid_prescribe_perc": 7.067003764,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 2848,
+    "Amount_x": 44,
+    "Amount_y": 5164160,
+    "death_perpop": 0.018311665
+  },
+  {
+    "year": 2014,
+    "fips": "42041",
+    "opioid_prescribe_perc": 5.233335994,
+    "Unemployment Rate": 4.5,
+    "total_crimes": 7053,
+    "Amount_x": 134,
+    "Amount_y": 28514736,
+    "death_perpop": 0.00601131
+  },
+  {
+    "year": 2014,
+    "fips": "42043",
+    "opioid_prescribe_perc": 4.699716124,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 17805,
+    "Amount_x": 95,
+    "Amount_y": 15844405,
+    "death_perpop": 0.005905432
+  },
+  {
+    "year": 2014,
+    "fips": "42045",
+    "opioid_prescribe_perc": 4.82500469,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 23204,
+    "Amount_x": 25,
+    "Amount_y": 5388125,
+    "death_perpop": 0.004448612
+  },
+  {
+    "year": 2014,
+    "fips": "42049",
+    "opioid_prescribe_perc": 5.71150888,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 9980,
+    "Amount_x": 92,
+    "Amount_y": 12955060,
+    "death_perpop": 0.006867789
+  },
+  {
+    "year": 2014,
+    "fips": "42051",
+    "opioid_prescribe_perc": 5.515644751,
+    "Unemployment Rate": 7.8,
+    "total_crimes": 5944,
+    "Amount_x": 8,
+    "Amount_y": 1764000,
+    "death_perpop": 0.010926007
+  },
+  {
+    "year": 2014,
+    "fips": "42069",
+    "opioid_prescribe_perc": 5.256115068,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 6748,
+    "Amount_x": 22,
+    "Amount_y": 4533778,
+    "death_perpop": 0.009504622
+  },
+  {
+    "year": 2014,
+    "fips": "42071",
+    "opioid_prescribe_perc": 4.74127475,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 16419,
+    "Amount_x": 122,
+    "Amount_y": 19869132,
+    "death_perpop": 0.003713494
+  },
+  {
+    "year": 2014,
+    "fips": "42073",
+    "opioid_prescribe_perc": 4.211070632,
+    "Unemployment Rate": 6.2,
+    "total_crimes": 3303,
+    "Amount_x": 5,
+    "Amount_y": 753500,
+    "death_perpop": 0.012686615
+  },
+  {
+    "year": 2014,
+    "fips": "42077",
+    "opioid_prescribe_perc": 5.370254805,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 14085,
+    "Amount_x": 6,
+    "Amount_y": 930620,
+    "death_perpop": 0.005444598
+  },
+  {
+    "year": 2014,
+    "fips": "42079",
+    "opioid_prescribe_perc": 4.440952195,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 14288,
+    "Amount_x": 44,
+    "Amount_y": 5753875,
+    "death_perpop": 0.008903384
+  },
+  {
+    "year": 2014,
+    "fips": "42081",
+    "opioid_prescribe_perc": 4.828792995,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 5095,
+    "Amount_x": 82,
+    "Amount_y": 11888877,
+    "death_perpop": 0.009421519
+  },
+  {
+    "year": 2014,
+    "fips": "42085",
+    "opioid_prescribe_perc": 5.956676162,
+    "Unemployment Rate": 5.8,
+    "total_crimes": 4419,
+    "Amount_x": 33,
+    "Amount_y": 4677008,
+    "death_perpop": 0.016493771
+  },
+  {
+    "year": 2014,
+    "fips": "42089",
+    "opioid_prescribe_perc": 4.945532367,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 8320,
+    "Amount_x": 2,
+    "Amount_y": 167000,
+    "death_perpop": 0.009572355
+  },
+  {
+    "year": 2014,
+    "fips": "42091",
+    "opioid_prescribe_perc": 4.674554013,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 29037,
+    "Amount_x": 71,
+    "Amount_y": 16656500,
+    "death_perpop": 0.003831354
+  },
+  {
+    "year": 2014,
+    "fips": "42095",
+    "opioid_prescribe_perc": 5.329690552,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 10330,
+    "Amount_x": 3,
+    "Amount_y": 405000,
+    "death_perpop": 0.006170966
+  },
+  {
+    "year": 2014,
+    "fips": "42097",
+    "opioid_prescribe_perc": 7.562136065,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 3993,
+    "Amount_x": 61,
+    "Amount_y": 7151010,
+    "death_perpop": 0.013818615
+  },
+  {
+    "year": 2014,
+    "fips": "42101",
+    "opioid_prescribe_perc": 4.839049249,
+    "Unemployment Rate": 8.1,
+    "total_crimes": 115192,
+    "Amount_x": 41,
+    "Amount_y": 6675659,
+    "death_perpop": 0.005325531
+  },
+  {
+    "year": 2014,
+    "fips": "42107",
+    "opioid_prescribe_perc": 4.61831543,
+    "Unemployment Rate": 7.1,
+    "total_crimes": 6846,
+    "Amount_x": 17,
+    "Amount_y": 2505904,
+    "death_perpop": 0.00816771
+  },
+  {
+    "year": 2014,
+    "fips": "42125",
+    "opioid_prescribe_perc": 4.490390736,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 8241,
+    "Amount_x": 70,
+    "Amount_y": 12196603,
+    "death_perpop": 0.010206238
+  },
+  {
+    "year": 2014,
+    "fips": "42129",
+    "opioid_prescribe_perc": 5.367173477,
+    "Unemployment Rate": 5.7,
+    "total_crimes": 12548,
+    "Amount_x": 46,
+    "Amount_y": 9855760,
+    "death_perpop": 0.012967771
+  },
+  {
+    "year": 2014,
+    "fips": "42133",
+    "opioid_prescribe_perc": 4.770397163,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 20156,
+    "Amount_x": 51,
+    "Amount_y": 8991848,
+    "death_perpop": 0.006264736
+  },
+  {
+    "year": 2014,
+    "fips": "44005",
+    "opioid_prescribe_perc": 4.269571478,
+    "Unemployment Rate": 6.7,
+    "total_crimes": 3253,
+    "Amount_x": 7,
+    "Amount_y": 1952700,
+    "death_perpop": 0.014563637
+  },
+  {
+    "year": 2014,
+    "fips": "44007",
+    "opioid_prescribe_perc": 3.884540328,
+    "Unemployment Rate": 8.2,
+    "total_crimes": 20186,
+    "Amount_x": 4,
+    "Amount_y": 1034564,
+    "death_perpop": 0.005615654
+  },
+  {
+    "year": 2014,
+    "fips": "45019",
+    "opioid_prescribe_perc": 6.650686931,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 34187,
+    "Amount_x": 6,
+    "Amount_y": 1729116,
+    "death_perpop": 0.004694168
+  },
+  {
+    "year": 2014,
+    "fips": "45045",
+    "opioid_prescribe_perc": 7.020487956,
+    "Unemployment Rate": 5.3,
+    "total_crimes": 27748,
+    "Amount_x": 5,
+    "Amount_y": 1451842,
+    "death_perpop": 0.004217043
+  },
+  {
+    "year": 2014,
+    "fips": "45051",
+    "opioid_prescribe_perc": 7.01195375,
+    "Unemployment Rate": 7.4,
+    "total_crimes": 26006,
+    "Amount_x": 5,
+    "Amount_y": 856285,
+    "death_perpop": 0.009321595
+  },
+  {
+    "year": 2014,
+    "fips": "45063",
+    "opioid_prescribe_perc": 4.949054641,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 9304,
+    "Amount_x": 2,
+    "Amount_y": 470930,
+    "death_perpop": 0.013881177
+  },
+  {
+    "year": 2014,
+    "fips": "45079",
+    "opioid_prescribe_perc": 5.030549459,
+    "Unemployment Rate": 6,
+    "total_crimes": 14975,
+    "Amount_x": 2,
+    "Amount_y": 444600,
+    "death_perpop": 0.003130823
+  },
+  {
+    "year": 2014,
+    "fips": "45091",
+    "opioid_prescribe_perc": 4.87922253,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 10135,
+    "Amount_x": 4,
+    "Amount_y": 800016,
+    "death_perpop": 0.010026612
+  },
+  {
+    "year": 2014,
+    "fips": "47001",
+    "opioid_prescribe_perc": 4.397195297,
+    "Unemployment Rate": 6.8,
+    "total_crimes": 5298,
+    "Amount_x": 1,
+    "Amount_y": 140000,
+    "death_perpop": 0.021180271
+  },
+  {
+    "year": 2014,
+    "fips": "47013",
+    "opioid_prescribe_perc": 5.363579152,
+    "Unemployment Rate": 9.3,
+    "total_crimes": 2876,
+    "Amount_x": 3,
+    "Amount_y": 874000,
+    "death_perpop": 0.026094736
+  },
+  {
+    "year": 2014,
+    "fips": "47021",
+    "opioid_prescribe_perc": 6.028294185,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 2542,
+    "Amount_x": 1,
+    "Amount_y": 117500,
+    "death_perpop": 0.025321584
+  },
+  {
+    "year": 2014,
+    "fips": "47037",
+    "opioid_prescribe_perc": 6.869519231,
+    "Unemployment Rate": 5,
+    "total_crimes": 64131,
+    "Amount_x": 25,
+    "Amount_y": 4935636,
+    "death_perpop": 0.005295307
+  },
+  {
+    "year": 2014,
+    "fips": "47059",
+    "opioid_prescribe_perc": 4.747949476,
+    "Unemployment Rate": 8,
+    "total_crimes": 2792,
+    "Amount_x": 2,
+    "Amount_y": 357300,
+    "death_perpop": 0.014648366
+  },
+  {
+    "year": 2014,
+    "fips": "47073",
+    "opioid_prescribe_perc": 4.523903147,
+    "Unemployment Rate": 7.3,
+    "total_crimes": 2194,
+    "Amount_x": 4,
+    "Amount_y": 597200,
+    "death_perpop": 0.017605634
+  },
+  {
+    "year": 2014,
+    "fips": "47093",
+    "opioid_prescribe_perc": 7.891293669,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 26973,
+    "Amount_x": 2,
+    "Amount_y": 481200,
+    "death_perpop": 0.008827723
+  },
+  {
+    "year": 2014,
+    "fips": "47149",
+    "opioid_prescribe_perc": 5.413362658,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 22832,
+    "Amount_x": 6,
+    "Amount_y": 1432750,
+    "death_perpop": 0.006760868
+  },
+  {
+    "year": 2014,
+    "fips": "47157",
+    "opioid_prescribe_perc": 5.16112484,
+    "Unemployment Rate": 7.5,
+    "total_crimes": 60890,
+    "Amount_x": 17,
+    "Amount_y": 4414910,
+    "death_perpop": 0.00373883
+  },
+  {
+    "year": 2014,
+    "fips": "47163",
+    "opioid_prescribe_perc": 6.914265398,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 11631,
+    "Amount_x": 20,
+    "Amount_y": 2498240,
+    "death_perpop": 0.01341039
+  },
+  {
+    "year": 2014,
+    "fips": "47165",
+    "opioid_prescribe_perc": 13.3763687,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 12759,
+    "Amount_x": 21,
+    "Amount_y": 4366030,
+    "death_perpop": 0.008289517
+  },
+  {
+    "year": 2014,
+    "fips": "47179",
+    "opioid_prescribe_perc": 7.980564327,
+    "Unemployment Rate": 6.3,
+    "total_crimes": 9336,
+    "Amount_x": 11,
+    "Amount_y": 1644800,
+    "death_perpop": 0.007965208
+  },
+  {
+    "year": 2014,
+    "fips": "47189",
+    "opioid_prescribe_perc": 8.901930573,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 6676,
+    "Amount_x": 14,
+    "Amount_y": 2596171,
+    "death_perpop": 0.009840502
+  },
+  {
+    "year": 2014,
+    "fips": "48029",
+    "opioid_prescribe_perc": 6.317766707,
+    "Unemployment Rate": 4.7,
+    "total_crimes": 102314,
+    "Amount_x": 3,
+    "Amount_y": 1016840,
+    "death_perpop": 0.001797232
+  },
+  {
+    "year": 2014,
+    "fips": "48039",
+    "opioid_prescribe_perc": 5.429774538,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 13842,
+    "Amount_x": 2,
+    "Amount_y": 495450,
+    "death_perpop": 0.00439072
+  },
+  {
+    "year": 2014,
+    "fips": "48085",
+    "opioid_prescribe_perc": 6.299437787,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 14071,
+    "Amount_x": 9,
+    "Amount_y": 2676078,
+    "death_perpop": 0.001754842
+  },
+  {
+    "year": 2014,
+    "fips": "48113",
+    "opioid_prescribe_perc": 6.348584825,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 94499,
+    "Amount_x": 8,
+    "Amount_y": 1652320,
+    "death_perpop": 0.002026856
+  },
+  {
+    "year": 2014,
+    "fips": "48121",
+    "opioid_prescribe_perc": 5.46278389,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 20761,
+    "Amount_x": 9,
+    "Amount_y": 2255200,
+    "death_perpop": 0.002092484
+  },
+  {
+    "year": 2014,
+    "fips": "48167",
+    "opioid_prescribe_perc": 6.681661341,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 28571,
+    "Amount_x": 5,
+    "Amount_y": 892200,
+    "death_perpop": 0.00521543
+  },
+  {
+    "year": 2014,
+    "fips": "48181",
+    "opioid_prescribe_perc": 7.979045888,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 8294,
+    "Amount_x": 1,
+    "Amount_y": 202000,
+    "death_perpop": 0.008173073
+  },
+  {
+    "year": 2014,
+    "fips": "48201",
+    "opioid_prescribe_perc": 5.521270986,
+    "Unemployment Rate": 5,
+    "total_crimes": 177523,
+    "Amount_x": 32,
+    "Amount_y": 8336552,
+    "death_perpop": 0.002009906
+  },
+  {
+    "year": 2014,
+    "fips": "48215",
+    "opioid_prescribe_perc": 4.073277825,
+    "Unemployment Rate": 8.8,
+    "total_crimes": 36048,
+    "Amount_x": 1,
+    "Amount_y": 161500,
+    "death_perpop": 0.001633995
+  },
+  {
+    "year": 2014,
+    "fips": "48303",
+    "opioid_prescribe_perc": 6.065580707,
+    "Unemployment Rate": 3.9,
+    "total_crimes": 12516,
+    "Amount_x": 2,
+    "Amount_y": 365600,
+    "death_perpop": 0.004147599
+  },
+  {
+    "year": 2014,
+    "fips": "48329",
+    "opioid_prescribe_perc": 8.118243862,
+    "Unemployment Rate": 2.9,
+    "total_crimes": 8789,
+    "Amount_x": 1,
+    "Amount_y": 132000,
+    "death_perpop": 0.006602055
+  },
+  {
+    "year": 2014,
+    "fips": "48339",
+    "opioid_prescribe_perc": 5.750262141,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 16993,
+    "Amount_x": 4,
+    "Amount_y": 1210400,
+    "death_perpop": 0.003205533
+  },
+  {
+    "year": 2014,
+    "fips": "48439",
+    "opioid_prescribe_perc": 6.669544553,
+    "Unemployment Rate": 5,
+    "total_crimes": 71938,
+    "Amount_x": 5,
+    "Amount_y": 706400,
+    "death_perpop": 0.00144984
+  },
+  {
+    "year": 2014,
+    "fips": "48453",
+    "opioid_prescribe_perc": 6.368549338,
+    "Unemployment Rate": 4.1,
+    "total_crimes": 62543,
+    "Amount_x": 5,
+    "Amount_y": 1016000,
+    "death_perpop": 0.002438399
+  },
+  {
+    "year": 2014,
+    "fips": "48491",
+    "opioid_prescribe_perc": 6.714292043,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 14758,
+    "Amount_x": 3,
+    "Amount_y": 846236,
+    "death_perpop": 0.004670774
+  },
+  {
+    "year": 2014,
+    "fips": "49049",
+    "opioid_prescribe_perc": 8.189916779,
+    "Unemployment Rate": 3.5,
+    "total_crimes": 21998,
+    "Amount_x": 3,
+    "Amount_y": 892100,
+    "death_perpop": 0.006205936
+  },
+  {
+    "year": 2014,
+    "fips": "49053",
+    "opioid_prescribe_perc": 11.89005081,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 7493,
+    "Amount_x": 1,
+    "Amount_y": 300000,
+    "death_perpop": 0.011840325
+  },
+  {
+    "year": 2014,
+    "fips": "49057",
+    "opioid_prescribe_perc": 8.98578411,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 10768,
+    "Amount_x": 1,
+    "Amount_y": 241000,
+    "death_perpop": 0.006009305
+  },
+  {
+    "year": 2014,
+    "fips": "50007",
+    "opioid_prescribe_perc": 6.522595339,
+    "Unemployment Rate": 3,
+    "total_crimes": 3727,
+    "Amount_x": 30,
+    "Amount_y": 6494251,
+    "death_perpop": 0.007836254
+  },
+  {
+    "year": 2014,
+    "fips": "51041",
+    "opioid_prescribe_perc": 5.095423601,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 18402,
+    "Amount_x": 3,
+    "Amount_y": 912700,
+    "death_perpop": 0.004424171
+  },
+  {
+    "year": 2014,
+    "fips": "51059",
+    "opioid_prescribe_perc": 4.144968252,
+    "Unemployment Rate": 4.2,
+    "total_crimes": 33354,
+    "Amount_x": 75,
+    "Amount_y": 33114011,
+    "death_perpop": 0.001282137
+  },
+  {
+    "year": 2014,
+    "fips": "51087",
+    "opioid_prescribe_perc": 5.144158456,
+    "Unemployment Rate": 5.1,
+    "total_crimes": 7298,
+    "Amount_x": 6,
+    "Amount_y": 1883250,
+    "death_perpop": 0.003530952
+  },
+  {
+    "year": 2014,
+    "fips": "51107",
+    "opioid_prescribe_perc": 7.838732096,
+    "Unemployment Rate": 4.3,
+    "total_crimes": 6829,
+    "Amount_x": 81,
+    "Amount_y": 36278979,
+    "death_perpop": 0.002859766
+  },
+  {
+    "year": 2014,
+    "fips": "53011",
+    "opioid_prescribe_perc": 6.581525516,
+    "Unemployment Rate": 7,
+    "total_crimes": 13021,
+    "Amount_x": 1,
+    "Amount_y": 211105,
+    "death_perpop": 0.003424835
+  },
+  {
+    "year": 2014,
+    "fips": "53033",
+    "opioid_prescribe_perc": 6.434788393,
+    "Unemployment Rate": 4.7,
+    "total_crimes": 60251,
+    "Amount_x": 19,
+    "Amount_y": 7391500,
+    "death_perpop": 0.002788037
+  },
+  {
+    "year": 2014,
+    "fips": "53035",
+    "opioid_prescribe_perc": 8.020952055,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 5222,
+    "Amount_x": 2,
+    "Amount_y": 516200,
+    "death_perpop": 0.005118755
+  },
+  {
+    "year": 2014,
+    "fips": "53053",
+    "opioid_prescribe_perc": 7.279307596,
+    "Unemployment Rate": 7,
+    "total_crimes": 26883,
+    "Amount_x": 4,
+    "Amount_y": 1161357,
+    "death_perpop": 0.002981964
+  },
+  {
+    "year": 2014,
+    "fips": "53061",
+    "opioid_prescribe_perc": 6.898151825,
+    "Unemployment Rate": 5.2,
+    "total_crimes": 20517,
+    "Amount_x": 6,
+    "Amount_y": 2158825,
+    "death_perpop": 0.004385804
+  },
+  {
+    "year": 2014,
+    "fips": "53067",
+    "opioid_prescribe_perc": 7.057980957,
+    "Unemployment Rate": 6.5,
+    "total_crimes": 8244,
+    "Amount_x": 1,
+    "Amount_y": 396000,
+    "death_perpop": 0.006288397
+  },
+  {
+    "year": 2014,
+    "fips": "53073",
+    "opioid_prescribe_perc": 6.977206804,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 6289,
+    "Amount_x": 1,
+    "Amount_y": 218000,
+    "death_perpop": 0.004846065
+  },
+  {
+    "year": 2014,
+    "fips": "54003",
+    "opioid_prescribe_perc": 6.751819934,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 2985,
+    "Amount_x": 3,
+    "Amount_y": 506150,
+    "death_perpop": 0.01668984
+  },
+  {
+    "year": 2014,
+    "fips": "54011",
+    "opioid_prescribe_perc": 6.668394535,
+    "Unemployment Rate": 5.5,
+    "total_crimes": 6583,
+    "Amount_x": 2,
+    "Amount_y": 183700,
+    "death_perpop": 0.022306185
+  },
+  {
+    "year": 2014,
+    "fips": "54033",
+    "opioid_prescribe_perc": 5.222857034,
+    "Unemployment Rate": 5.4,
+    "total_crimes": 3332,
+    "Amount_x": 9,
+    "Amount_y": 1201650,
+    "death_perpop": 0.014498637
+  },
+  {
+    "year": 2014,
+    "fips": "54039",
+    "opioid_prescribe_perc": 7.977062326,
+    "Unemployment Rate": 5.9,
+    "total_crimes": 15143,
+    "Amount_x": 6,
+    "Amount_y": 1072050,
+    "death_perpop": 0.012622066
+  },
+  {
+    "year": 2014,
+    "fips": "54081",
+    "opioid_prescribe_perc": 6.366644918,
+    "Unemployment Rate": 7.2,
+    "total_crimes": 4146,
+    "Amount_x": 2,
+    "Amount_y": 308000,
+    "death_perpop": 0.027272843
+  },
+  {
+    "year": 2014,
+    "fips": "54099",
+    "opioid_prescribe_perc": 6.385233588,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 1339,
+    "Amount_x": 3,
+    "Amount_y": 292000,
+    "death_perpop": 0.030166277
+  },
+  {
+    "year": 2014,
+    "fips": "54107",
+    "opioid_prescribe_perc": 7.493777246,
+    "Unemployment Rate": 6,
+    "total_crimes": 1945,
+    "Amount_x": 3,
+    "Amount_y": 468640,
+    "death_perpop": 0.013861775
+  },
+  {
+    "year": 2014,
+    "fips": "55009",
+    "opioid_prescribe_perc": 5.541841996,
+    "Unemployment Rate": 4.8,
+    "total_crimes": 15419,
+    "Amount_x": 32,
+    "Amount_y": 5023643,
+    "death_perpop": 0.005106329
+  },
+  {
+    "year": 2014,
+    "fips": "55025",
+    "opioid_prescribe_perc": 5.50780969,
+    "Unemployment Rate": 3.7,
+    "total_crimes": 25307,
+    "Amount_x": 37,
+    "Amount_y": 8449333,
+    "death_perpop": 0.00725577
+  },
+  {
+    "year": 2014,
+    "fips": "55079",
+    "opioid_prescribe_perc": 5.754529085,
+    "Unemployment Rate": 6.9,
+    "total_crimes": 67491,
+    "Amount_x": 108,
+    "Amount_y": 16937530,
+    "death_perpop": 0.006289075
+  },
+  {
+    "year": 2014,
+    "fips": "55101",
+    "opioid_prescribe_perc": 4.880832049,
+    "Unemployment Rate": 6.6,
+    "total_crimes": 12072,
+    "Amount_x": 4,
+    "Amount_y": 629830,
+    "death_perpop": 0.008203403
+  },
+  {
+    "year": 2014,
+    "fips": "55105",
+    "opioid_prescribe_perc": 6.565925572,
+    "Unemployment Rate": 6.1,
+    "total_crimes": 14186,
+    "Amount_x": 48,
+    "Amount_y": 7332425,
+    "death_perpop": 0.008398708
+  },
+  {
+    "year": 2014,
+    "fips": "55127",
+    "opioid_prescribe_perc": 4.885701479,
+    "Unemployment Rate": 5.6,
+    "total_crimes": 7995,
+    "Amount_x": 4,
+    "Amount_y": 787525,
+    "death_perpop": 0.010685317
+  },
+  {
+    "year": 2014,
+    "fips": "55131",
+    "opioid_prescribe_perc": 4.31362754,
+    "Unemployment Rate": 4.6,
+    "total_crimes": 8420,
+    "Amount_x": 14,
+    "Amount_y": 3260896,
+    "death_perpop": 0.007533581
+  },
+  {
+    "year": 2014,
+    "fips": "55133",
+    "opioid_prescribe_perc": 5.887174713,
+    "Unemployment Rate": 4.4,
+    "total_crimes": 22792,
+    "Amount_x": 66,
+    "Amount_y": 14842524,
+    "death_perpop": 0.004468786
+  },
+  {
+    "year": 2014,
+    "fips": "56025",
+    "opioid_prescribe_perc": 6.129609118,
+    "Unemployment Rate": 4,
+    "total_crimes": 7195,
+    "Amount_x": 7,
+    "Amount_y": 1512220,
+    "death_perpop": 0.013584775
+  }
+]

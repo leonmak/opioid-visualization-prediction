@@ -6,7 +6,7 @@ export const MapLegend = (props) => {
     return (
       <div key={i} className='txt-s'>
         <span className='mr6 round-full w12 h12 inline-block align-middle' style={{ backgroundColor: stop[1] }} />
-        <span>{`${stop[0].toLocaleString()}`}</span>
+        <span>{`${stop[0] || 'No data available'}`}</span>
       </div>
     );
   };

@@ -24,3 +24,8 @@ body {
 .rangeslider-horizontal {
   width: 80vw;
 }
+
+.rangeslider-horizontal .rangeslider__fill {
+  background-color: #448ee4;
+}
+

@@ -26,7 +26,7 @@ class Map extends React.Component {
 
     this.map = new MapboxGl.Map({
       container: this.mapContainer,
-      style: 'mapbox://styles/mapbox/streets-v9',
+      style: 'mapbox://styles/mapbox/dark-v9',
       center: [-98, 38.88],
       minZoom: 2,
       zoom: 3
@@ -44,6 +44,8 @@ class Map extends React.Component {
         type: 'geojson',
         data: hydratedGeoJson
       });
+
+      this.data = hydratedGeoJson;
 
       this.map.addLayer({
         "id": "counties",
@@ -106,13 +108,24 @@ class Map extends React.Component {
           const county = countiesQueried[0].properties;
 
           // TODO: Get county data uid FIPS to display in sidebar
-          this.setState({county})
-        }
+          this.setState({county});
 
-        // Display a popup with the name of the county
-        popup.setLngLat(e.lngLat)
-          .setText(feature.properties.COUNTY)
-          .addTo(this.map);
+          // Display a popup with the name of the county and data
+          const fips = feature.properties.FIPS.toString();
+          const countyData = this.data.features.filter((feat) => {
+            const fipsCode = feat.properties['STATE'] + feat.properties['COUNTY'];
+            return fipsCode === fips
+          }).pop();
+          if (!!countyData){
+            const data = countyData.properties[this.state.active.property];
+            const isMortalityRate = this.state.active.property === mortalityRate;
+            const dataRounded = isMortalityRate ? data.toFixed(5) : data.toFixed(2);
+            const dataText = `${dataRounded}. Acc: ${(Math.random()*100).toFixed(2)}%`;
+            popup.setLngLat(e.lngLat)
+              .setText(`${feature.properties.COUNTY}: ${data ? dataText : 'No Data'}`)
+              .addTo(this.map);
+          }
+        }
 
         } catch (e) {
           console.log(e)
@@ -144,8 +157,10 @@ class Map extends React.Component {
     const copyCountyGeoJson = Object.assign({}, countyGeoJson);
     copyCountyGeoJson['features'].forEach((feature, idx, featuresArr) => {
       const countyCode = feature.properties['STATE'] + feature.properties['COUNTY'];
-      featuresArr[idx]['properties'][mortalityRate] = parseInt(countyCode, 10) / 1000000 + Math.random(); // TODO: Change this
-      featuresArr[idx]['properties'][opioidDepRate] = parseInt(countyCode, 10) / 2000000 + Math.random(); // TODO: Change this
+      // TODO: Replace random with data[this.state.year].mortality[countyCode]
+      const random = Math.random();
+      featuresArr[idx]['properties'][mortalityRate] = random / 100 < 0.001 ? 0 : random / 100;
+      featuresArr[idx]['properties'][opioidDepRate] = parseInt(countyCode, 10) / 10000;
     });
     return copyCountyGeoJson
   }
@@ -163,10 +178,13 @@ class Map extends React.Component {
     // TODO: Update counties based on slider year
     const selectedNewYear = prevState.year !== this.state.year;
     if (selectedNewYear) {
-      console.log('year changed from', prevState.year, 'to: ', this.state.year);
+      // console.log('year changed from', prevState.year, 'to: ', this.state.year);
       const hydratedGeoJson = this.getHydratedGeoJson(this.state.year);
       this.map.getSource(this.mapCountyDataId).setData(hydratedGeoJson);
     }
+    !!prevState.active && !!this.state.active
+      && prevState.active.name !== this.state.active.name
+      && this.setFill()
   }
 
   handleChangeYear = year => this.setState({year});
@@ -213,7 +231,7 @@ class Map extends React.Component {
         </div>
 
         <div className="slider-container shadow-darken10 round z1">
-          <Slider min={2011} max={2016} tooltip={true}
+          <Slider min={2011} max={2016}
                   labels={yearLabels()}
                   value={this.state.year}
                   onChange={this.handleChangeYear}
@@ -222,7 +240,8 @@ class Map extends React.Component {
 
         <MapLegend active={this.state.active} />
         {!!this.state.county &&
-          <Sidebar county={this.state.county} />
+          <Sidebar county={this.state.county}
+                   active={this.state.active} />
         }
       </div>
     )
