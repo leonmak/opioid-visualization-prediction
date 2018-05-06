@@ -2,6 +2,7 @@
  * Created by leonmak on 5/5/18.
  */
 import React from 'react'
+import {opioidDepRate} from './MapOptions'
 
 const options = {
   'opioidType': ['Natural & Semisynthetic', 'Synthetic', 'Methadone', 'Heroin'],
@@ -21,8 +22,8 @@ export const Sidebar = (props) => (
         <div className='px12 py12 scroll-auto'>
           <h3 className='txt-m txt-bold mb6'>{props.county.COUNTY}</h3>
 
-          { props.active.name === 'Opioid Prescription Rate' ? <div>
-            <h4 className='txt-m txt-bold'>Most common opioid type: </h4>
+          { props.active.property === opioidDepRate ? <div>
+            <h4 className='txt-m txt-bold'>Most common overdose opioid type: </h4>
             <h5 className='txt-s mb6'>{props.county.opioidType || mockCategory('opioidType')}</h5>
           </div> : <div>
             <p className="txt-m txt-bold mb6">Overdose Death</p>

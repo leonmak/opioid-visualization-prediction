@@ -121,7 +121,7 @@ class Map extends React.Component {
             // TODO: Get county data uid FIPS to display in sidebar
             if (data && data === 0) {
               this.setState({county: {name: 'dummy'}});
-            } else {
+            } else if (data) {
               this.setState({county});
             }
 
