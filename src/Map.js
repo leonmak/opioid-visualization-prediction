@@ -1,5 +1,6 @@
 import React from 'react'
 import MapboxGl from 'mapbox-gl/dist/mapbox-gl.js'  // Use raw source instead of wrapper
+import Slider from 'react-rangeslider'
 
 import 'mapbox-gl/dist/mapbox-gl.css'  // Adds popup css
 import './Map.css'
@@ -38,6 +39,12 @@ class Map extends React.Component {
         "url": "mapbox://mapbox.82pkq93d"
       });
 
+      const hydratedGeoJson = this.getHydratedGeoJson(this.props.year);
+      this.map.addSource(this.mapCountyDataId, {
+        type: 'geojson',
+        data: hydratedGeoJson
+      });
+
       this.map.addLayer({
         "id": "counties",
         "type": "fill",
@@ -62,13 +69,6 @@ class Map extends React.Component {
         "filter": ["in", "FIPS", ""]
       }, 'place-city-sm'); // Place polygon under these labels.
 
-      const hydratedGeoJson = this.getHydratedGeoJson(this.props.year);
-
-      this.map.addSource(this.mapCountyDataId, {
-        type: 'geojson',
-        data: hydratedGeoJson
-      });
-
       this.map.addLayer({
         "id": this.mapCountyDataId, // id to style
         "source": this.mapCountyDataId,
@@ -77,7 +77,7 @@ class Map extends React.Component {
           "fill-outline-color": "#2a2928",
           "fill-opacity": 0.75
         },
-      }, 'counties');
+      }, 'place-city-sm');
 
       this.setFill();
 
@@ -153,30 +153,51 @@ class Map extends React.Component {
   shouldComponentUpdate(nextProps, nextState) {
     const selectedNewCounty = !!nextState.county && !!this.state.county
       && nextState.county.COUNTY !== this.state.county.COUNTY;
+    const selectedNewData = !!nextState.active && !!this.state.active
+      && nextState.active.name !== this.state.active.name;
     const selectedNewYear = nextProps.year !== this.props.year;
-    return selectedNewYear || selectedNewCounty
+    return selectedNewYear || selectedNewCounty || selectedNewData
   }
 
   componentDidUpdate(prevProps) {
     // TODO: Update counties based on slider year
-    console.log('year changed from', prevProps.year, 'to: ', this.props.year);
-    const hydratedGeoJson = this.getHydratedGeoJson(this.props.year);
-    this.map.getSource(this.mapCountyDataId).setData(hydratedGeoJson);
+    const selectedNewYear = prevProps.year !== this.props.year;
+    if (selectedNewYear) {
+      console.log('year changed from', prevProps.year, 'to: ', this.props.year);
+      const hydratedGeoJson = this.getHydratedGeoJson(this.props.year);
+      this.map.getSource(this.mapCountyDataId).setData(hydratedGeoJson);
+    }
   }
 
   render() {
     const style = {
       position: 'absolute',
-        top: 0,
-        bottom: 0,
-        width: '100%'
+      top: 0,
+      bottom: 0,
+      width: '100%'
+    };
+
+    const renderOptions = (option, i) => {
+      return (
+        <label key={i} className="toggle-container">
+          <input onChange={() => this.setState({ active: mapOptions[i] })}
+                 checked={option.name === this.state.active.name}
+                 name="toggle" type="radio" />
+          <div className="toggle txt-s py3 toggle--active-white">{option.name}</div>
+        </label>
+      );
     };
 
     return (
       <div>
         <div style={style} ref={el => this.mapContainer = el} />
+
+        <div className="toggle-group absolute top left ml12 mt12 border border--2 border--white bg-white shadow-darken10 z1">
+          {mapOptions.map(renderOptions)}
+        </div>
+
         <MapLegend active={this.state.active} />
-        {this.state.county &&
+        {!!this.state.county &&
           <Sidebar county={this.state.county} />
         }
       </div>
